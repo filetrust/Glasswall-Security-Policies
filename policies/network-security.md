@@ -1,39 +1,16 @@
 # Network Security Policy  - Draft
 
-- Revision 2.0 
-
-Document History 
-Table 1: Document Change History 
-
- 
-
-Issue Date 
-
-Issue Number 
+Issue Date : 2nd January 2018 
+Issue Number : 2.1
 
 Document Owner 
-
-Description 
-
-2nd January 2018 
-
-2.0 
-
  
 
-Final Draft 
+### Contents￼ 
 
-
- 
- 
-
-Contents￼ 
-
-1.0 Overview5 
-
-2.0 Purpose5 
-
-3.0 Scope5 
+- 1.0 Overview
+- 2.0 Purpose
+- 3.0 Scope 
 
 4.0 Policy6 
 
