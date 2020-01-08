@@ -4,15 +4,13 @@ Issue Date : 2nd January 2018
 Issue Number : 2.1
 
 Document Owner 
- 
 
-### Contents￼ 
+### Contents￼
 
 - 1.0 Overview
 - 2.0 Purpose
 - 3.0 Scope 
-
-4.0 Policy6 
+- 4.0 Policy
 
 4.1 Network Device Passwords6 
 
