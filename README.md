@@ -2,7 +2,7 @@
 
 This repo contains the security policies that we use at Glasswall
 
-Note: these are still in Draft mode and we are going through the process of reviewing them
+**Note: these are still in Draft mode and we are going through the process of reviewing them**
 
 Please contribute and send Pull Requests with your views
 
