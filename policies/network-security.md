@@ -343,7 +343,6 @@ Redundancy should be implemented where it is needed, and must include but is not
 - Hard drive redundancy, such as mirroring or RAID. 
 - Component level redundancy, such as redundant power supplies or redundant NICs. 
 - Maintaining a supply of hot or cold spares onsite for replaceable components likely to fail. 
-test
 
 ### 4.17 Manufacturer Support Contracts for Network Devices 
 
