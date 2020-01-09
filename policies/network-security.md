@@ -156,41 +156,32 @@ The following must be applied:
 
 ##### 4.3.1.1 Rule Management 
 
-The firewall configuration changes must follow the appropriate change management procedure. 
-
-The firewall ruleset must be documented and audited. 
-
-Reviews must take place quarterly to ensure optimal security and to remove any unused rules. 
+- The firewall configuration changes must follow the appropriate change management procedure. 
+- The firewall ruleset must be documented and audited. 
+- Reviews must take place quarterly to ensure optimal security and to remove any unused rules. 
 
 ##### 4.3.1.2 Ruleset Configuration 
 
-The firewall ruleset should include a "deny/block all," rule as the last rule to avoid any security lapse. 
-
-The firewall ruleset should include a "stealth rule," which forbids connections to the firewall itself. 
-
-The firewall should be configured to log dropped or rejected packets. 
+- The firewall ruleset should include a "deny/block all," rule as the last rule to avoid any security lapse. 
+- The firewall ruleset should include a "stealth rule," which forbids connections to the firewall itself. 
+- The firewall should be configured to log dropped or rejected packets. 
 
 ##### 4.3.1.3 Configuration 
 
-Clocks should be synchronised using NTP. 
-
-Operating systems and applications must be fully up-to-date with latest versions from software vendor. 
-
-Separate accounts must be used for each administrator. 
-
-Configuration settings should be backed up periodically in accordance with the Back Up policy. 
-
-Backs Ups should be completed before applying updates. 
+- Clocks should be synchronised using NTP. 
+- Operating systems and applications must be fully up-to-date with latest versions from software vendor. 
+- Separate accounts must be used for each administrator. 
+- Configuration settings should be backed up periodically in accordance with the Back Up policy. 
+- Backs Ups should be completed before applying updates. 
 
 ##### 4.3.1.4 Connections 
 
-Only encrypted access from authorised networks may allow management of firewalls. 
-
-No unnecessary services or applications should be enabled on firewalls. 
+- Only encrypted access from authorised networks may allow management of firewalls. 
+- No unnecessary services or applications should be enabled on firewalls. 
 
 #### 4.3.2 Outbound Traffic Filtering 
 
-Outbound traffic should be limited to only authorised services using authorised ports. All other outbound traffic must be blocked. 
+- Outbound traffic should be limited to only authorised services using authorised ports. All other outbound traffic must be blocked. 
 
 ### 4.4 Networking Hardware 
 
@@ -222,33 +213,26 @@ The following statements apply to the company's use of IDS/IPS:
 
 #### 4.6.1 Ruleset Configuration 
 
-Ensure the latest vendor updates to detection signatures are obtained and applied. 
-
-Capture at least packet headers of traffic and retain for at least 7 days. 
+- Ensure the latest vendor updates to detection signatures are obtained and applied. 
+- Capture at least packet headers of traffic and retain for at least 7 days. 
 
 #### 4.6.2 Configuration 
 
-Each IDS/IPS instance must be secured appropriately following vendor guidelines or industry best practice. 
-
-Suspicious activities must generate automated alerts to the IT Manager. 
-
-Clocks should be synchronised using NTP. 
-
-Operating systems and applications must be fully up-to-date with latest versions from software vendor. 
-
-Separate accounts must be used for each administrator. 
+- Each IDS/IPS instance must be secured appropriately following vendor guidelines or industry best practice. 
+- Suspicious activities must generate automated alerts to the IT Manager. 
+- Clocks should be synchronised using NTP. 
+- Operating systems and applications must be fully up-to-date with latest versions from software vendor. 
+- Separate accounts must be used for each administrator. 
 
 #### 4.6.3 Connections 
 
-Only encrypted access from authorised networks may allow management of each IDS/IPS instance. 
-
-No unnecessary services or applications should be enabled. 
+- Only encrypted access from authorised networks may allow management of each IDS/IPS instance. 
+- No unnecessary services or applications should be enabled. 
 
 #### 4.6.4 Configuration Management 
 
-Configuration settings should be backed up periodically in accordance with the Back Up policy. 
-
-Backs Ups should be completed before applying updates. 
+- Configuration settings should be backed up periodically in accordance with the Back Up policy. 
+- Backs Ups should be completed before applying updates. 
 
 ### 4.7 Security Testing 
 
@@ -258,27 +242,19 @@ The following sections detail the company's requirements for security testing.
 
 #### 4.7.1 Internal Security Testing 
 
-Internal security testing should only be performed by trained employees whose job functions are to assess security, and only with permission of the IT Manager. 
-
-Vulnerability scans must be conducted monthly using company approved tools and methods. 
-
-Upon any configuration change to a system, an internal scan must be performed. 
-
-Failed tests should be documented and must have a plan to remediate any failures. 
-
-Any failures not remediated must be reported to Management for Risk Assessment. 
+- Internal security testing should only be performed by trained employees whose job functions are to assess security, and only with permission of the IT Manager. 
+- Vulnerability scans must be conducted monthly using company approved tools and methods. 
+- Upon any configuration change to a system, an internal scan must be performed. 
+- Failed tests should be documented and must have a plan to remediate any failures. 
+- Any failures not remediated must be reported to Management for Risk Assessment. 
 
 #### 4.7.2 External Security Testing 
 
-Regular external security testing must be conducted at least once per quarter. 
-
-Security testing should avoid negatively affecting network performance, company systems or data. 
-
-Testing should be performed as often as is necessary, as determined by the IT Manager. 
-
-Failed tests should be documented and must have a plan to remediate any failures. 
-
-Any failures not remediated must be reported to Management for Risk Assessment. 
+- Regular external security testing must be conducted at least once per quarter. 
+- Security testing should avoid negatively affecting network performance, company systems or data. 
+- Testing should be performed as often as is necessary, as determined by the IT Manager. 
+- Failed tests should be documented and must have a plan to remediate any failures. 
+- Any failures not remediated must be reported to Management for Risk Assessment. 
 
 ### 4.8 Disposal of Information Technology Assets 
 
@@ -299,15 +275,15 @@ With regards to network segregation, the following applies;
 
 #### 4.9.1 Higher Risk Networks 
 
-Segmentation of higher risk networks from the company's internal network is required, and must be enforced with a firewall or router that provides access controls. 
+- Segmentation of higher risk networks from the company's internal network is required, and must be enforced with a firewall or router that provides access controls. 
 
 #### 4.9.2 Externally-Accessible Systems 
 
-Segmentation of externally-accessible systems from the company's internal network is required, and must be enforced with a firewall or router that provides access controls.  
+- Segmentation of externally-accessible systems from the company's internal network is required, and must be enforced with a firewall or router that provides access controls.  
 
 #### 4.9.3 Internal Networks 
 
-The company requires that networks be segmented to the fullest reasonable extent. 
+- The company requires that networks be segmented to the fullest reasonable extent. 
 
 ### 4.10 Network Documentation 
 
@@ -323,11 +299,9 @@ Network documentation must be updated upon any changes, and must be reviewed on 
 
 ### 4.11 Antivirus/Anti-Malware 
 
-All company-provided equipment must have antivirus/anti-malware software installed. 
-
-All Company devices must have the most up to date patches and virus signature/definition file applied in a timely manner. 
-
-Antivirus and malware scanning must be implemented at the Internet gateway. 
+- All company-provided equipment must have antivirus/anti-malware software installed. 
+- All Company devices must have the most up to date patches and virus signature/definition file applied in a timely manner. 
+- Antivirus and malware scanning must be implemented at the Internet gateway. 
 
 ### 4.12 Software Use Policy 
 
