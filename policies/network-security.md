@@ -5,19 +5,19 @@ Issue Number : 2.1
 
 Document Owner 
 
-### Contents￼
+### Contents
 
-- 1.0 Overview
-- 2.0 Purpose
-- 3.0 Scope 
-- 4.0 Policy
+- **1.0 Overview**
+- **2.0 Purpose**
+- **3.0 Scope** 
+- **4.0 Policy**
   - 4.1 Network Device Passwords
     - 4.1.1 Password Construction
     - 4.1.2 Failed Logins
     - 4.1.3 Change Requirements
     - 4.1.4 Password Policy Enforcemen
     - 4.1.5 Administrative Password Guidelines
-  - 4.2 Logging7 
+  - 4.2 Logging
     - 4.2.1 Administrator Acces
     - 4.2.2 Application Servers
     - 4.2.3 Network Devices
@@ -52,8 +52,8 @@ Document Owner
     - 4.16 Redundancy
     - 4.17 Manufacturer Support Contracts for Network Devices
     - 4.18 Applicability of Other Policies
-  - 5.0 Enforcement
-  - 6.0 Definitions
+  - **5.0 Enforcement**
+  - **6.0 Definitions**
 ￼ 
 
 Glasswall is hereinafter referred to as "the company." 
@@ -76,9 +76,7 @@ This policy covers all Company IT systems and devices regardless of location or 
 
 Passwords used to secure network devices, such as routers, switches, and servers, must be held to higher standards than standard user-level or desktop system passwords. 
 
- 
-
-4.1.1 Password Construction 
+#### 4.1.1 Password Construction 
 
 The following must apply to the construction of passwords for network devices: 
 
@@ -96,23 +94,15 @@ Passwords should not include "guessable" data such as personal information like 
 
 Passwords should not be similar to the manufacturer provided default. 
 
- 
-
-4.1.2 Failed Logins 
+#### 4.1.2 Failed Logins 
 
 The Company must lock network user accounts after 3 unsuccessful logins.   
 
- 
-
 When login failures occur, the error message transmitted to the user must not indicate specifically whether the account name or password were incorrect.  The error must only state "the username and/or password you supplied were incorrect." 
 
- 
-
-4.1.3 Change Requirements 
+#### 4.1.3 Change Requirements 
 
 Passwords must be changed according to the company's Password Policy.  Additionally, the following requirements apply to changing network device passwords: 
-
- 
 
 If any network device password is suspected to have been compromised, all network device passwords must be changed immediately. 
 
@@ -120,85 +110,60 @@ If a company network or system administrator leaves the company, all passwords t
 
 Vendor default passwords must be changed when new devices are put into service. 
 
- 
-
-4.1.4 Password Policy Enforcement 
+#### 4.1.4 Password Policy Enforcement 
 
 Where passwords are used, the network device management application must be configured to enforce the company's password policies on construction, changes, re-use, lockout, etc. 
 
- 
-
-4.1.5 Administrative Password Guidelines 
+#### 4.1.5 Administrative Password Guidelines 
 
 Administrative (also known as "root") access to systems must be limited to only those who have a legitimate business need for this type of access. 
 
- 
 
-4.2 Logging 
+### 4.2 Logging 
 
 The following sections detail the company's requirements for logging and log review. 
 
- 
-
-4.2.1 Administrator Access 
+#### 4.2.1 Administrator Access 
 
 All System administrator and system operator activities should be logged. 
 
- 
-
-4.2.2 Application Servers 
+#### 4.2.2 Application Servers 
 
 Logging should be enabled to the fullest degree possible. No passwords should be contained in logs. 
 
- 
-
-4.2.3 Network Devices 
+#### 4.2.3 Network Devices 
 
 Logging should be enabled to the fullest degree possible. No passwords should be contained in logs. 
 
- 
-
-4.2.4 Critical Devices 
+#### 4.2.4 Critical Devices 
 
 Logging should be enabled to the fullest degree possible. No passwords should be contained in logs. 
 
- 
-
-4.2.5 Log Management 
+#### 4.2.5 Log Management 
 
 Audit logs must be collated and stored centrally, and kept in accordance with the Data Retention Policy.  Real time analysis of security logs from network devices and applications must be facilitated using a Security Incident & Event Management (SIEM) application or service. 
 
- 
-
-4.2.6 Log Review 
+#### 4.2.6 Log Review 
 
 Log reviews must be performed weekly. 
 
- 
-
-4.2.7 Log Retention 
+#### 4.2.7 Log Retention 
 
 Logs should be retained in accordance with the company's Retention Policy. 
 
- 
-
-4.2.8 Log Testing 
+#### 4.2.8 Log Testing 
 
 The end-to-end logging process should be tested periodically.  
 
- 
-
-4.3 Firewalls 
+### 4.3 Firewalls 
 
 The following sections detail the use of a Company firewall. 
 
- 
-
-4.3.1 Configuration 
+#### 4.3.1 Configuration 
 
 The following must be applied: 
 
-4.3.1.1 Rule Management 
+##### 4.3.1.1 Rule Management 
 
 The firewall configuration changes must follow the appropriate change management procedure. 
 
@@ -206,9 +171,7 @@ The firewall ruleset must be documented and audited.
 
 Reviews must take place quarterly to ensure optimal security and to remove any unused rules. 
 
- 
-
-4.3.1.2 Ruleset Configuration 
+##### 4.3.1.2 Ruleset Configuration 
 
 The firewall ruleset should include a "deny/block all," rule as the last rule to avoid any security lapse. 
 
