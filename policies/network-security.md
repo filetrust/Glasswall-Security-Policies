@@ -22,106 +22,57 @@ Document Owner
     - 4.2.2 Application Servers
     - 4.2.3 Network Devices
     - 4.2.4 Critical Devices
-
-4.2.5 Log Management7 
-
-4.2.6 Log Review7 
-
-4.2.7 Log Retention7 
-
-4.3 Firewalls7 
-
-4.3.1 Configuration7 
-
-4.3.2 Outbound Traffic Filtering8 
-
-4.4 Networking Hardware8 
-
-4.5 Network Servers9 
-
-4.6 Intrusion Detection Systems/Intrusion Prevention Systems (IDS/IPS)9 
-
-4.6.1 Ruleset Configuration9 
-
-4.6.2 Configuration9 
-
-4.6.3 Connections9 
-
-4.6.4 Configuration Management9 
-
-4.7 Security Testing10 
-
-4.7.1 Internal Security Testing10 
-
-4.7.2 External Security Testing10 
-
-4.8 Disposal of Information Technology Assets10 
-
-4.9 Network Segregation10 
-
-4.9.1 Higher Risk Networks10 
-
-4.9.2 Externally-Accessible Systems11 
-
-4.9.3 Internal Networks11 
-
-4.10 Network Documentation11 
-
-4.11 Antivirus/Anti-Malware11 
-
-4.12 Software Use Policy11 
-
-4.13 Maintenance Windows and Scheduled Downtime11 
-
-4.14 Change Management11 
-
-4.15 Suspected Security Incidents12 
-
-4.16 Redundancy12 
-
-4.17 Manufacturer Support Contracts for Network Devices12 
-
-4.18 Applicability of Other Policies12 
-
-5.0 Enforcement12 
-
-6.0 Definitions12 
-
+    - 4.2.5 Log Management
+    - 4.2.6 Log Review
+    - 4.2.7 Log Retention
+  - 4.3 Firewalls
+    - 4.3.1 Configuration
+    - 4.3.2 Outbound Traffic Filtering
+    - 4.4 Networking Hardware
+  - 4.5 Network Servers
+    - 4.6 Intrusion Detection Systems/Intrusion Prevention Systems (IDS/IPS)
+    - 4.6.1 Ruleset Configuration
+    - 4.6.2 Configuration
+    - 4.6.3 Connections
+    - 4.6.4 Configuration Management
+  - 4.7 Security Testing
+    - 4.7.1 Internal Security Testing
+    - 4.7.2 External Security Testing
+  - 4.8 Disposal of Information Technology Assets
+  - 4.9 Network Segregation 
+    - 4.9.1 Higher Risk Networks
+    - 4.9.2 Externally-Accessible Systems
+    - 4.9.3 Internal Networks
+    - 4.10 Network Documentation
+    - 4.11 Antivirus/Anti-Malware
+    - 4.12 Software Use Policy
+    - 4.13 Maintenance Windows and Scheduled Downtime
+    - 4.14 Change Management
+    - 4.15 Suspected Security Incidents
+    - 4.16 Redundancy
+    - 4.17 Manufacturer Support Contracts for Network Devices
+    - 4.18 Applicability of Other Policies
+  - 5.0 Enforcement
+  - 6.0 Definitions
 ￼ 
-
-Page Break
- 
 
 Glasswall is hereinafter referred to as "the company." 
 
-1.0 Overview 
-
- 
+## 1.0 Overview 
 
 This document sets out the organisations intention to protect the confidentiality, integrity and availability of the Company’s network. 
 
-2.0 Purpose 
-
- 
+## 2.0 Purpose 
 
 The purpose of this policy is to establish administrative direction, procedural requirements, and requirements to ensure the appropriate protection of Company information handled by computer networks. 
 
-3.0 Scope 
-
- 
+## 3.0 Scope 
 
 This policy covers all Company IT systems and devices regardless of location or ownership.  
 
- 
+## 4.0 Policy 
 
-Page Break
- 
-
-4.0 Policy 
-
- 
-
-4.1 Network Device Passwords 
+### 4.1 Network Device Passwords 
 
 Passwords used to secure network devices, such as routers, switches, and servers, must be held to higher standards than standard user-level or desktop system passwords. 
 
