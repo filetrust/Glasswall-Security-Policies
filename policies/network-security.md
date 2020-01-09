@@ -11,28 +11,17 @@ Document Owner
 - 2.0 Purpose
 - 3.0 Scope 
 - 4.0 Policy
-
-4.1 Network Device Passwords6 
-
-4.1.1 Password Construction6 
-
-4.1.2 Failed Logins6 
-
-4.1.3 Change Requirements6 
-
-4.1.4 Password Policy Enforcement6 
-
-4.1.5 Administrative Password Guidelines7 
-
-4.2 Logging7 
-
-4.2.1 Administrator Access7 
-
-4.2.2 Application Servers7 
-
-4.2.3 Network Devices7 
-
-4.2.4 Critical Devices7 
+  - 4.1 Network Device Passwords
+    - 4.1.1 Password Construction
+    - 4.1.2 Failed Logins
+    - 4.1.3 Change Requirements
+    - 4.1.4 Password Policy Enforcemen
+    - 4.1.5 Administrative Password Guidelines
+  - 4.2 Logging7 
+    - 4.2.1 Administrator Acces
+    - 4.2.2 Application Servers
+    - 4.2.3 Network Devices
+    - 4.2.4 Critical Devices
 
 4.2.5 Log Management7 
 
