@@ -52,7 +52,7 @@
     - 4.17 Manufacturer Support Contracts for Network Devices
     - 4.18 Applicability of Other Policies
   - **5.0 Enforcement**
-  - **6.0 Definitions**￼ 
+  - **6.0 Definitions*￼ 
 
 Glasswall is hereinafter referred to as "the company." 
 
