@@ -52,12 +52,11 @@
     - 4.17 Manufacturer Support Contracts for Network Devices
     - 4.18 Applicability of Other Policies
   - **5.0 Enforcement**
-  - **6.0 Definitions**
-￼ 
+  - **6.0 Definitions**￼ 
 
 Glasswall is hereinafter referred to as "the company." 
 
-## 1.0 Overview 
+## 1.0 Overview
 
 This document sets out the organisations intention to protect the confidentiality, integrity and availability of the Company’s network. 
 
