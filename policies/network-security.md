@@ -8,7 +8,7 @@
 | **Owner**        | CISO       |
 | **Stakeholders** | Head of IT |
 
-### Contents
+# Contents
 
 - **1.0 Overview**
 - **2.0 Purpose**
@@ -60,7 +60,7 @@
   
 Glasswall is hereinafter referred to as "the company." 
 
-## 1.0 Overview
+# 1.0 Overview
 
 This document sets out the organisations intention to protect the confidentiality, integrity and availability of the Company’s network. 
 
