@@ -1,4 +1,4 @@
-# Network Security Policy  - Draft
+# Network Security Policy
 
 |                  |            |
 |------------------|------------|
