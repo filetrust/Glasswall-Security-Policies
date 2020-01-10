@@ -14,6 +14,6 @@ Here are the policies and its status
 
 This work is being tracked on the Glasswall Jira using these OKRs
 
-- [OUTCOME-33 - Publish all Security Policies and make them Public on GitHub](https://glasswall.atlassian.net/browse/OUTCOME-33)
-  -  [Review and publish the first 4 security policies added to GitHub](https://glasswall.atlassian.net/browse/KEYRESULT-36)
-  -  [Add the 23 Security Policies to GitHub Security Policies Repo](https://glasswall.atlassian.net/browse/KEYRESULT-15)
+- [OUTCOME-33 - Publish all Security Policies and make them Public on GitHub](https://glasswall.atlassian.net/browse/OUTCOME-33) - In Progress
+  -  [Review and publish the first 4 security policies added to GitHub](https://glasswall.atlassian.net/browse/KEYRESULT-36) - In Progress
+  -  [Add the 23 Security Policies to GitHub Security Policies Repo](https://glasswall.atlassian.net/browse/KEYRESULT-15) - Paused
