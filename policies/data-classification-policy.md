@@ -1,70 +1,36 @@
-
-Glasswall Solutions Ltd.
-
-Data Classification Policy
-
-Information contained herein is the property of Glasswall Limited and is company confidential.
-
-
-
-
-
-
-
-
-Version 2.0
- 
-Document History
-Table 1: Document Change History
-
-Issue Date	Issue Number	Document Owner	Description
-2nd January 2018	2.0		Final Draft
-			
-			
-			
-			
-
-Document Distribution
-Table 2: Document Distribution
-
-Name	Position	Date	Signature
-Dinis Cruz	CISO	09/01/2020	
-Abbas Haidar	InfoSec Ops Mgr	09/01/2020	
-
-Jenny Brown	HR	09/01/2020	
-			
- 
+# Data Classification Policy
+	 
 Contents
 
-1.0 Overview	5
-2.0 Purpose	5
-3.0 Scope	5
-4.0 Policy	6
-4.1 Data Classification	6
-4.2 Data Storage	6
-4.2.1 On Premises Data Storage	6
-4.2.1.1 Personal	6
-4.2.1.1 Public	6
-4.2.3 Operational	6
-4.2.4 Critical	6
-4.2.5 Confidential	6
-4.3 Data Transmission	7
-4.3.1 Personal	7
-4.3.2 Public	7
-4.3.3 Operational	7
-4.3.4 Critical	7
-4.3.5 Confidential	7
-4.4 Data Destruction	7
-4.4.1 Personal	7
-4.4.2 Public	7
-4.4.3 Operational	7
-4.4.4 Critical	7
-4.4.5 Confidential	8
-4.5 Applicability of Other Policies	8
-5.0 Enforcement	8
-6.0 Definitions	8
-Appendix 1	9
-Handling and Classification Rules	9
+- 1.0 Overview
+- 2.0 Purpose
+- 3.0 Scope
+- 4.0 Policy
+  - 4.1 Data Classification
+  - 4.2 Data Storage
+    - 4.2.1 On Premises Data Storage
+      - 4.2.1.1 Personal
+      - 4.2.1.1 Public
+    - 4.2.3 Operational
+    - 4.2.4 Critical
+    - 4.2.5 Confidential
+  - 4.3 Data Transmission
+    - 4.3.1 Personal
+    - 4.3.2 Public
+    - 4.3.3 Operational
+    - 4.3.4 Critical
+    - 4.3.5 Confidential
+  - 4.4 Data Destruction
+    - 4.4.1 Personal
+    - 4.4.2 Public
+    - 4.4.3 Operational
+    - 4.4.4 Critical
+    - 4.4.5 Confidential
+  - 4.5 Applicability of Other Policies
+ - 5.0 Enforcement
+- 6.0 Definitions
+- Appendix 1
+  - Handling and Classification Rules
 
  
 Glasswall is hereinafter referred to as "the company."
