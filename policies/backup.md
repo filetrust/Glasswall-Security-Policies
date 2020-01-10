@@ -68,8 +68,8 @@ Data to be backed up includes the following:
   - Non-Production code
   - Domain controllers
   - Standard builds for laptops and endpoints 
--	Configuration of network devices such as, switches, routers, wireless access points etc.
--	Logs for critical systems  .
+- Configuration of network devices such as, switches, routers, wireless access points etc.
+- Logs for critical systems  .
 
 ## 4.3 Backup Frequency
 
@@ -79,26 +79,27 @@ Backups must be performed daily.
 
 In order to protect from cyber-attack, equipment failure, natural disasters or human error, backup storage must use a third-party.
 
+### 4.4.1 On Premise Physical backup
+
 In order to protect from loss of access to the third-party backup, a duplicate of the weekly backup should be stored onsite in a secure area.
 
 To secure the backups, all backup media should be encrypted.
 
 The onsite weekly backup must provide the ability to restore all On-Premise systems in the event of loss of access to the third party backup.
-Cloud backup is done on Real-Time using Automatic Geo Redundant backup.
-
-### 4.4.1 On Premise Physical backup
 
 ### 4.4.2 Cloud backup
+
+Cloud backup is done on Real-Time using Automatic Geo Redundant backup.
 
  
 ## 4.5 Backup Retention
 
 Backups must be retained as follows:
 
--	Daily:		2 Weeks
--	Weekly:	2 Months
--	Monthly:	12 Months
--	Annual:		7 Years
+- Daily:   2 Weeks
+- Weekly:  2 Months
+- Monthly: 12 Months
+- Annual:  7 Years
  
 ## 4.7 Restoration Procedures & Documentation
 
