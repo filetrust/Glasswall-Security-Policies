@@ -34,7 +34,7 @@
  
 ## 1.0 Overview
 
-This policy defines the backup policy for computers within the organisation that are expected to have their data backed up.
+This policy defines the backup policy for computer systems within the organisation that are expected to have their data backed up.
 
 ## 2.0 Purpose
 
