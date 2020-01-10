@@ -58,8 +58,8 @@ Data to be backed up includes the following:
 
 - All data determined to be critical to company operations and/or employee job functions.  
 - Systems to be backed up include but are not limited to:
-- File server
-  - Mail server
+- File servers
+  - Mail servers
   - Production Infrastructure 
   - Production data
   - Production code
@@ -77,7 +77,7 @@ Backups must be performed daily.
 
 ## 4.4 Backup Location
 
-In order to protect from cyber-attack, equipment failure, natural disasters or human error, backup storage must use a third-party.
+In order to protect from cyber-attack, equipment failure, natural disasters or human error, backup storage must use a third-party in addition to any onsite backup location.
 
 ### 4.4.1 On Premise Physical backup
 
@@ -119,7 +119,7 @@ This document is part of the company's cohesive set of security policies.  Other
 
 ## 5.0 Enforcement
 
-This policy will be enforced by the IT Manager and/or Executive Team. Violations may result in disciplinary action, which may include suspension, restriction of access, or more severe penalties up to and including termination of employment. Where illegal activities or theft of company property (physical or intellectual) are suspected, the company may report such activities to the applicable authorities.
+This policy will be enforced by the Head of IT and/or Executive Team. Violations may result in disciplinary action, which may include suspension, restriction of access, or more severe penalties up to and including termination of employment. Where illegal activities or theft of company property (physical or intellectual) are suspected, the company may report such activities to the applicable authorities.
 
 ## 6.0 Definitions
 
