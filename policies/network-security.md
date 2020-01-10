@@ -1,14 +1,15 @@
 # Network Security Policy
 
-|                  |            |
+|                  |            | 
 |------------------|------------|
+| **ID**           | [Policy-3](https://glasswall.atlassian.net/browse/POLICY-1) |
 | **Status**       | Draft      |
 | **Release Date** | TBD        |
 | **Version**      | v2.1       |
-| **Owner**        | CISO       |
-| **Stakeholders** | Head of IT |
+| **Owners**       | [CISO](https://glasswall.atlassian.net/browse/ROLE-38), [CEO](https://glasswall.atlassian.net/browse/ROLE-37)       |
+| **Stakeholders** | [Head of IT](https://glasswall.atlassian.net/browse/ROLE-43)|
 
-# Contents
+## Contents
 
 - **1.0 Overview**
 - **2.0 Purpose**
@@ -60,7 +61,7 @@
   
 Glasswall is hereinafter referred to as "the company." 
 
-# 1.0 Overview
+## 1.0 Overview
 
 This document sets out the organisations intention to protect the confidentiality, integrity and availability of the Company’s network. 
 
