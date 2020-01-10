@@ -163,9 +163,9 @@ This policy will be enforced by the IT Manager and/or Executive Team. Violations
 
 ## 6.0 Definitions
 
-Refer to Glasswall Information Security Policy Guide.
+Refer to Glasswall Information Security Policy Guide (**Todo:** add link to Policy in Jira).
  
-##Appendix 1
+## Appendix 1
 
 ### Handling and Classification Rules
 
