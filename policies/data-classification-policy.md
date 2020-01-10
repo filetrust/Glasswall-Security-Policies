@@ -1,12 +1,13 @@
 # Data Classification Policy
 
-| ID                | [Policy-3](https://glasswall.atlassian.net/browse/POLICY-3) |
-|:------------------|:------------|
-| **Status**        | Draft      |
-| **Release Date**  | TBD        |
-| **Version**       | v2.1       |
-| **Owner**         | CISO       |
-| **Stakeholders**  | Head of IT, HR Manager|
+|                  |            | 
+|------------------|------------|
+| **ID**           | [Policy-3](https://glasswall.atlassian.net/browse/POLICY-3) |
+| **Status**       | Draft      |
+| **Release Date** | TBD        |
+| **Version**      | v2.1       |
+| **Owner**        | CISO       |
+| **Stakeholders** | Head of IT, HR Manager|
 
 
 # Contents
