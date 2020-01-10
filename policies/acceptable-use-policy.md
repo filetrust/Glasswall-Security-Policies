@@ -40,8 +40,7 @@
   - 4.21 Reporting of Security Incident
   - 4.22 Applicability of Other Policies
 - 5.0 Enforcement 
-- 6.0 Definitions
-￼  
+- 6.0 Definition￼s  
 
 ## 1.0 Overview 
 
