@@ -1,8 +1,12 @@
 # Network Security Policy  - Draft
 
-- Issue Date    : TBC
-- Issue Number  : 2.1
-- Document Owner: CISO 
+|                  |            |
+|------------------|------------|
+| **Status**       | Draft      |
+| **Release Date** | TBD        |
+| **Version**      | v2.1       |
+| **Owner**        | CISO       |
+| **Stakeholders** | Head of IT |
 
 ### Contents
 
