@@ -6,8 +6,8 @@
 | **Status**       | Draft      |
 | **Release Date** | TBD        |
 | **Version**      | v2.1       |
-| **Owner**        | CISO       |
-| **Stakeholders** | Head of IT, HR Manager|
+| **Ownesr**       | [CISO](https://glasswall.atlassian.net/browse/ROLE-38), [CEO](https://glasswall.atlassian.net/browse/ROLE-37)       |
+| **Stakeholders** | [Head of OpSec](https://glasswall.atlassian.net/browse/ROLE-47), Head of HR|
 
 
 # Contents
