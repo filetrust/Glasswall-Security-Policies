@@ -48,7 +48,7 @@ Since inappropriate use of company IT resources exposes the company to risk, it 
 
 ## 2.0 Purpose 
 
-This Acceptable Use Policy is intended to provide a framework for use of the company’s IT resources.  It should be interpreted such that is has the widest application, and thus includes new technologies and services that may not be explicitly referred to. 
+This Acceptable Use Policy is intended to provide a framework for use of the company’s IT resources.  It should be interpreted such that the policy has the widest application, and thus includes new technologies and services that may not be explicitly referred to. 
 
 ## 3.0 Scope 
 
@@ -68,7 +68,7 @@ Spamming, harassment, communicating threats, solicitations, chain letters, or py
 
 Creation or distribution of any disruptive or offensive messages, including but not limited to offensive comments about race, gender, hair colour, disabilities, age, sexual orientation, pornography, religious beliefs and practice, political beliefs, or national origin. 
 
-Employees who receive any emails or messages with this content from company employees should report the matter to their supervisor immediately. 
+Employees who receive any emails or messages with this content from company employees or externally should report the matter to their supervisor immediately. 
 
 Information that is considered confidential or proprietary to the company may not be sent via email or messaging systems, regardless of the recipient, without being encrypted. 
 
@@ -248,7 +248,7 @@ The company will take all necessary steps to report and prosecute any violations
 
 ### 4.18 Non-Company-Owned Equipment 
 
-The user must obtain express written permission from the IT Manager before installing non-company-provided computer systems on the company network.  Once this permission is obtained, all company policies apply. 
+The user must obtain express written permission from the Head of IT before installing non-company-provided computer systems on the company network.  Once this permission is obtained, all company policies apply. 
 
 ### 4.19 Personal Storage Media 
 
@@ -256,7 +256,7 @@ Connecting personal storage devices to any company owned device or equipment is 
 
 ### 4.20 Software Installation 
 
-The user must obtain express written permission from the IT Manager and the employees line manager before installing non-company-provided software.  Once this permission is obtained, all company policies apply. 
+The user must obtain express written permission from the Head of IT and the employees line manager before installing non-company-provided software.  Once this permission is obtained, all company policies apply. 
 
 ### 4.21 Reporting of Security Incidents 
 
@@ -268,7 +268,7 @@ This document is part of the company's cohesive set of security policies.  Other
 
 ## 5.0 Enforcement 
 
-This policy will be enforced by the IT Manager and/or Executive Team. Violations may result in disciplinary action, which may include suspension, restriction of access, or more severe penalties up to and including termination of employment. Where illegal activities or theft of company property (physical or intellectual) are suspected, the company may report such activities to the applicable authorities. 
+This policy will be enforced by the Head of IT and/or Executive Team. Violations may result in disciplinary action, which may include suspension, restriction of access, or more severe penalties up to and including termination of employment. Where illegal activities or theft of company property (physical or intellectual) are suspected, the company may report such activities to the applicable authorities. 
 
 ## 6.0 Definitions 
 
