@@ -19,7 +19,7 @@
     - 4.1.1 Password Construction
     - 4.1.2 Failed Logins
     - 4.1.3 Change Requirements
-    - 4.1.4 Password Policy Enforcemen
+    - 4.1.4 Password Policy Enforcement
     - 4.1.5 Administrative Password Guidelines
   - **4.2 Logging**
     - 4.2.1 Administrator Acces
@@ -93,7 +93,7 @@ The following must apply to the construction of passwords for network devices:
 
 #### 4.1.2 Failed Logins 
 
-The Company must lock network user accounts after 3 unsuccessful logins.   
+The Company must lock network user accounts after 5 unsuccessful logins.   
 
 When login failures occur, the error message transmitted to the user must not indicate specifically whether the account name or password were incorrect.  The error must only state "the username and/or password you supplied were incorrect." 
 
@@ -101,7 +101,7 @@ When login failures occur, the error message transmitted to the user must not in
 
 Passwords must be changed according to the company's Password Policy.  Additionally, the following requirements apply to changing network device passwords: 
 
-If any network device password is suspected to have been compromised, all network device passwords must be changed immediately. 
+If any network device password is suspected to have been compromised, a security incident must be reported to IT Helpdesk and all network device passwords must be changed immediately. 
 
 If a company network or system administrator leaves the company, all passwords to which the administrator could have had access must be changed immediately.  This statement also applies to any consultant or contractor who has access to administrative passwords. 
 
@@ -224,7 +224,7 @@ The following statements apply to the company's use of IDS/IPS:
 #### 4.6.2 Configuration 
 
 - Each IDS/IPS instance must be secured appropriately following vendor guidelines or industry best practice. 
-- Suspicious activities must generate automated alerts to the IT Manager. 
+- Suspicious activities must generate automated alerts to the Head of IT. 
 - Clocks should be synchronised using NTP. 
 - Operating systems and applications must be fully up-to-date with latest versions from software vendor. 
 - Separate accounts must be used for each administrator. 
@@ -247,7 +247,7 @@ The following sections detail the company's requirements for security testing.
 
 #### 4.7.1 Internal Security Testing 
 
-- Internal security testing should only be performed by trained employees whose job functions are to assess security, and only with permission of the IT Manager. 
+- Internal security testing should only be performed by trained employees whose job functions are to assess security, and only with permission of the Head of IT. 
 - Vulnerability scans must be conducted monthly using company approved tools and methods. 
 - Upon any configuration change to a system, an internal scan must be performed. 
 - Failed tests should be documented and must have a plan to remediate any failures. 
@@ -257,7 +257,7 @@ The following sections detail the company's requirements for security testing.
 
 - Regular external security testing must be conducted at least once per quarter. 
 - Security testing should avoid negatively affecting network performance, company systems or data. 
-- Testing should be performed as often as is necessary, as determined by the IT Manager. 
+- Testing should be performed as often as is necessary, as determined by the Head of IT. 
 - Failed tests should be documented and must have a plan to remediate any failures. 
 - Any failures not remediated must be reported to Management for Risk Assessment. 
 
@@ -323,9 +323,9 @@ The company requirements for the use of software is as follows:
 
 Planned downtime for network devices must only be outside normal business hours. 
 
-Tasks that are deemed as an emergency measure can be performed at any time as determined by the IT Manager or as instructed by Management. 
+Tasks that are deemed as an emergency measure can be performed at any time as determined by the Head of IT or as instructed by Management. 
 
-Only the IT Manager or authorised delegated staff can approve downtime during business hours. 
+Only the Head of IT or authorised delegated staff can approve downtime during business hours. 
 
 ### 4.14 Change Management 
 
@@ -335,7 +335,7 @@ Physical network devices must bear an asset tag showing only the asset number, a
 
 ### 4.15 Suspected Security Incidents 
 
-When a security incident is suspected that may impact a network device, the IT Staff must comply with the company's Incident Response policy. 
+When a security incident is suspected that may impact a network device, the IT Staff must comply with the company's  Security Incident Response policy. 
 
 ### 4.16 Redundancy 
 
@@ -355,7 +355,7 @@ The company must purchase a vendor approved hardware/software support agreement 
 
 For the duration of the support agreement, the following minimum requirements must be followed: 
 
-- Hardware: The support agreement must allow for repair/replacement of the device within an acceptable time period, as determined by the IT Manager, as well as firmware or embedded software updates. 
+- Hardware: The support agreement must allow for repair/replacement of the device within an acceptable time period, as determined by the Head of IT, as well as firmware or embedded software updates. 
 - Software: The support agreement must allow for updates, upgrades, and hotfixes. 
 
 ### 4.18 Applicability of Other Policies 
@@ -364,8 +364,8 @@ This document is part of the company's cohesive set of security policies.  Other
 
 ## 5.0 Enforcement 
 
-This policy will be enforced by the IT Manager and/or Executive Team. Violations may result in disciplinary action, which may include suspension, restriction of access, or more severe penalties up to and including termination of employment. Where illegal activities or theft of company property (physical or intellectual) are suspected, the company may report such activities to the applicable authorities. 
+This policy will be enforced by the Head of IT and/or Executive Team. Violations may result in disciplinary action, which may include suspension, restriction of access, or more severe penalties up to and including termination of employment. Where illegal activities or theft of company property (physical or intellectual) are suspected, the company may report such activities to the applicable authorities. 
 
 ## 6.0 Definitions 
 
-Refer to Glasswall Information Security Policy Guide. 
+Refer to Glasswall Information Security Policy Guide.
