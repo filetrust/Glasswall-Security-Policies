@@ -149,7 +149,7 @@ Confidential data must be destroyed in a manner that makes recovery of the infor
 
 -	Paper/documents: crosscut shredding is required.
 -	Storage media (CD's, DVD's): physical destruction is required.
--	The following applies to, but is not limited to, Hard Drives, USB Storage Devices etc:
+-	The following applies to, but is not limited to, Hard Drives, USB Storage Devices, virtual media storage, etc...
 -	All data must be securely overwritten or wiped and must use an approved secure file deletion utility.
 -	Physical devices that cannot be overwritten or wiped must be destroyed beyond recovery.
 
@@ -159,7 +159,7 @@ This document is part of the company's cohesive set of security policies.  Other
 
 ## 5.0 Enforcement
 
-This policy will be enforced by the IT Manager and/or Executive Team. Violations may result in disciplinary action, which may include suspension, restriction of access, or more severe penalties up to and including termination of employment. Where illegal activities or theft of company property (physical or intellectual) are suspected, the company may report such activities to the applicable authorities.
+This policy will be enforced by the Head of IT and/or Executive Team. Violations may result in disciplinary action, which may include suspension, restriction of access, or more severe penalties up to and including termination of employment. Where illegal activities or theft of company property (physical or intellectual) are suspected, the company may report such activities to the applicable authorities.
 
 ## 6.0 Definitions
 
