@@ -5,7 +5,7 @@
 | **ID**           | [Policy-1](https://glasswall.atlassian.net/browse/POLICY-1) |
 | **Status**       | Draft      |
 | **Release Date** | TBD        |
-| **Version**      | v2.1       |
+| **Version**      | v2.2       |
 | **Owners**       | [CISO](https://glasswall.atlassian.net/browse/ROLE-38), [CEO](https://glasswall.atlassian.net/browse/ROLE-37)       |
 | **Stakeholders** | [Head of IT](https://glasswall.atlassian.net/browse/ROLE-43)|
 
@@ -22,19 +22,20 @@
     - 4.1.4 Password Policy Enforcement
     - 4.1.5 Administrative Password Guidelines
   - **4.2 Logging**
-    - 4.2.1 Administrator Acces
+    - 4.2.1 Administrator Access
     - 4.2.2 Application Servers
     - 4.2.3 Network Devices
     - 4.2.4 Critical Devices
     - 4.2.5 Log Management
     - 4.2.6 Log Review
     - 4.2.7 Log Retention
+    - 4.2.8 Log Testing
   - **4.3 Firewalls**
     - 4.3.1 Configuration
     - 4.3.2 Outbound Traffic Filtering
-    - 4.4 Networking Hardware
+  - **4.4 Networking Hardware**
   - **4.5 Network Servers**
-    - 4.6 Intrusion Detection Systems/Intrusion Prevention Systems (IDS/IPS)
+  - **4.6 Intrusion Detection Systems/Intrusion Prevention Systems (IDS/IPS)**
     - 4.6.1 Ruleset Configuration
     - 4.6.2 Configuration
     - 4.6.3 Connections
@@ -47,17 +48,17 @@
     - 4.9.1 Higher Risk Networks
     - 4.9.2 Externally-Accessible Systems
     - 4.9.3 Internal Networks
-    - 4.10 Network Documentation
-    - 4.11 Antivirus/Anti-Malware
-    - 4.12 Software Use Policy
-    - 4.13 Maintenance Windows and Scheduled Downtime
-    - 4.14 Change Management
-    - 4.15 Suspected Security Incidents
-    - 4.16 Redundancy
-    - 4.17 Manufacturer Support Contracts for Network Devices
-    - 4.18 Applicability of Other Policies
-  - **5.0 Enforcement**
-  - **6.0 Definitions**
+  - **4.10 Network Documentation**
+  - **4.11 Antivirus/Anti-Malware**
+  - **4.12 Software Use Policy**
+  - **4.13 Maintenance Windows and Scheduled Downtime**
+  - **4.14 Change Management**
+  - **4.15 Suspected Security Incidents**
+  - **4.16 Redundancy**
+  - **4.17 Manufacturer Support Contracts for Network Devices**
+  - **4.18 Applicability of Other Policies**
+- **5.0 Enforcement**
+- **6.0 Definitions**
   
 Glasswall is hereinafter referred to as "the company." 
 
@@ -95,7 +96,7 @@ The following must apply to the construction of passwords for network devices:
 
 The Company must lock network user accounts after 5 unsuccessful logins.   
 
-When login failures occur, the error message transmitted to the user must not indicate specifically whether the account name or password were incorrect.  The error must only state "the username and/or password you supplied were incorrect." 
+When login failures occur, the error message transmitted to the user must not indicate specifically whether the account name or password were incorrect. The error must only state "the username and/or password you supplied were incorrect." 
 
 #### 4.1.3 Change Requirements 
 
@@ -103,7 +104,7 @@ Passwords must be changed according to the company's Password Policy.  Additiona
 
 If any network device password is suspected to have been compromised, a security incident must be reported to IT Helpdesk and all network device passwords must be changed immediately. 
 
-If a company network or system administrator leaves the company, all passwords to which the administrator could have had access must be changed immediately.  This statement also applies to any consultant or contractor who has access to administrative passwords. 
+If a company network or system administrator leaves the company, all passwords to which the administrator could have had access must be changed immediately. This statement also applies to any consultant or contractor who has access to administrative passwords. 
 
 Vendor default passwords must be changed when new devices are put into service. 
 
@@ -137,7 +138,7 @@ Logging should be enabled to the fullest degree possible. No passwords should be
 
 #### 4.2.5 Log Management 
 
-Audit logs must be collated and stored centrally, and kept in accordance with the Data Retention Policy.  Real time analysis of security logs from network devices and applications must be facilitated using a Security Incident & Event Management (SIEM) application or service. 
+Audit logs must be collated and stored centrally, and kept in accordance with the Data Retention Policy. Real time analysis of security logs from network devices and applications must be facilitated using a Security Incident & Event Management (SIEM) application or service. 
 
 #### 4.2.6 Log Review 
 
@@ -271,7 +272,7 @@ Hard disk data wiping must only be performed with approved tools that meet as a 
 
 For disposal of all information technology assets that contain company data, the following applies; 
 
-- Data wiping must be used, Or 
+- Data wiping must be used 
 - The device must be physically destroyed beyond the ability to retrieve any data. 
 
 ### 4.9 Network Segregation 
