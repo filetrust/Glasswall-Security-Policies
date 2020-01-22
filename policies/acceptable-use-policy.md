@@ -33,11 +33,11 @@
   - 4.14 Personal Usage
   - 4.15 Remote Desktop Access
   - 4.16 Circumvention of Security
-  - 4.17 Use for Illegal Activities
+  - 4.17 Legal Restrictions
   - 4.18 Non-Company-Owned Equipment 
   - 4.19 Personal Storage Media
   - 4.20 Software Installation
-  - 4.21 Reporting of Security Incident
+  - 4.21 Reporting of Security Incidents
   - 4.22 Applicability of Other Policies
 - 5.0 Enforcement 
 - 6.0 Definitions
@@ -135,13 +135,13 @@ Ensure no information detrimental to the company is published.
 
 Obtain approval when writing about the company and the industry. 
  
-The following applies to users when writing content on behalf of the themselves on any public platforms or any personal social media accounts; 
+The following applies to users when writing content themselves on any public platforms or any personal social media accounts; 
 
 Users must not comment on any aspect of the company's business. 
 
 Where personally written content draws an association with the company, a disclaimer must be used. 
 
-Disclaimers must contain the following "the views and opinions expressed are mine and do not necessarily reflect the views of my employer” 
+Disclaimers must contain the following "the views and opinions expressed are mine and do not necessarily reflect the views of my employer”. 
 
 Personally written content should not include company logos or trademarks. 
 
@@ -229,7 +229,7 @@ Using company-owned or company-provided computer systems to knowingly circumvent
 
 ### 4.17 Legal Restrictions 
 
-No company-owned or company-provided computer systems may be knowingly used for activities that are considered illegal under applicable laws.  Such actions may include, but are not limited to, the following: 
+No company-owned or company-provided computer systems may be knowingly used for activities that are considered illegal under applicable laws. Such actions may include, but are not limited to, the following: 
 
 - Unauthorised Port Scanning
 - Unauthorised Network Hacking
@@ -248,7 +248,7 @@ The company will take all necessary steps to report and prosecute any violations
 
 ### 4.18 Non-Company-Owned Equipment 
 
-The user must obtain express written permission from the Head of IT before installing non-company-provided computer systems on the company network.  Once this permission is obtained, all company policies apply. 
+The user must obtain express written permission from the Head of IT before installing non-company-provided computer systems on the company network. Once this permission is obtained, all company policies apply. 
 
 ### 4.19 Personal Storage Media 
 
@@ -256,7 +256,7 @@ Connecting personal storage devices to any company owned device or equipment is 
 
 ### 4.20 Software Installation 
 
-The user must obtain express written permission from the Head of IT and the employees line manager before installing non-company-provided software.  Once this permission is obtained, all company policies apply. 
+The user must obtain express written permission from the Head of IT and the employees line manager before installing non-company-provided software. Once this permission is obtained, all company policies apply. 
 
 ### 4.21 Reporting of Security Incidents 
 
@@ -264,7 +264,7 @@ If a security incident or breach of any security policies is discovered or suspe
 
 ### 4.22 Applicability of Other Policies 
 
-This document is part of the company's cohesive set of security policies.  Other policies may apply to the topics covered in this document and as such the applicable policies should be reviewed as needed. 
+This document is part of the company's cohesive set of security policies. Other policies may apply to the topics covered in this document and as such the applicable policies should be reviewed as needed. 
 
 ## 5.0 Enforcement 
 
