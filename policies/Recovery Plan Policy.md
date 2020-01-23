@@ -141,7 +141,7 @@ policy owner.
 
 ### 4.2.2 Exceptions
 
-Any exception to the policy must be approved by the IT Manager and/or
+Any exception to the policy must be approved by the Head of IT and/or
 Executive Team in advance.
 
 4.3 Applicability of Other Policies
@@ -155,7 +155,7 @@ needed.
 5.0 Enforcement
 ===============
 
-This policy will be enforced by the IT Manager and/or Executive Team.
+This policy will be enforced by the Head of IT and/or Executive Team.
 Violations may result in disciplinary action, which may include
 suspension, restriction of access, or more severe penalties up to and
 including termination of employment.
