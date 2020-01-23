@@ -11,58 +11,56 @@
 
 
 
-# Contents
+
+
+#Contents
 ========
 
-[1 .0 Introduction 4](#introduction)
+[1.0 Introduction]
 
-[1.1 Objectives, Aim and Scope 4](#objectives-aim-and-scope)
+[1.1 Objectives, Aim and Scope]
 
-[1.2 Policy aim 4](#policy-aim)
+[1.2 Policy aim]
 
-[1.3 Scope 4](#scope)
+[1.3 Scope]
 
-[2 .0 Responsibilities and Legislation
-5](#responsibilities-and-legislation)
+[2.0 Responsibilities and Legislation]
 
-[2.1 Responsibilities 5](#responsibilities)
+[2.1 Responsibilities]
 
-[2.2 Legislation 6](#legislation)
+[2.2 Legislation]
 
-[3 .0 Policy Framework 7](#policy-framework)
+[3.0 Policy Framework]
 
-[3.1 Management of Security 7](#management-of-security)
+[3.1 Management of Security]
 
-[3.2 Reporting 7](#reporting)
+[3.2 Reporting](\l)
 
-[3.3 Information Security Awareness Training
-7](#information-security-awareness-training)
+[3.3 Information Security Awareness Training]
 
-[3.4 Security Policy Compliance 7](#security-policy-compliance)
+[3.4 Security Policy Compliance]
 
-[3.5 Policy Deviations or Exceptions
-8](#policy-deviations-or-exceptions)
+[3.5 Policy Deviations or Exceptions]
 
-[3.6 Contracts of Employment 8](#contracts-of-employment)
+[3.6 Contracts of Employment]
 
-[4.0 IT Security Policies 8](#it-security-policies)
+[4.0 IT Security Policies]
 
-[Appendix 1 11](#appendix-1)
+[Appendix 1]
 
-[Policy Acknowledgement Form 11](#policy-acknowledgement)
+[Policy Acknowledgement Form]
 
-[Appendix 2 12](#appendix-2)
+[Appendix 2]
 
-[Information Security Policy Glossary
-12](#information-security-policy-glossary)
+[Information Security Policy Glossary]
 
-[Appendix 3 19](#appendix-3)
+[Appendix 3]
 
-[Roles and Applicable Policies 19](#roles-and-applicable-policies)
+[Roles and Applicable Policies]
 
 ### 
 
-.0 Introduction
+1.0 Introduction
 ===============
 
 This top-level information security policy guide is a key component of
@@ -122,7 +120,7 @@ This policy applies to all information, information systems, networks,
 applications, locations and users of Glasswall Solutions or supplied
 under contract to it.
 
-.0 Responsibilities and Legislation
+2.0 Responsibilities and Legislation
 ===================================
 
  Responsibilities 
@@ -225,7 +223,7 @@ For US based companies all applicable US Laws apply, including:
 -   State Privacy Law in particular Texas and California (California
     Security Breach Notification Law)
 
-.0 Policy Framework
+3.0 Policy Framework
 ===================
 
  Management of Security {#management-of-security .list-paragraph}
@@ -525,50 +523,14 @@ Appendix 1
 Policy Acknowledgement
 ----------------------
 
-+----------------+----------------+----------------+----------------+
-|  {#section-12} |  {#section-13} |  {#section-14} |  {#section-15} |
-+================+================+================+================+
-|  {#section-4}  |  {#section-5}  |  {#section-6}  |  {#section-7}  |
-+----------------+----------------+----------------+----------------+
-|  {#section-8}  |  {#section-9}  |  {#section-10} |  {#section-11} |
-+----------------+----------------+----------------+----------------+
+-  All acknowledgements of policies will be tracked in the Cascade HHR
+ system. You will be required to acknowledge you have read and
+ understand each policy and this acknowledgement will need to be 
+ refreshed annually. 
 
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
--   
+
+
+
 
 Appendix 2
 ==========
@@ -1010,52 +972,82 @@ Appendix 3
 Roles and Applicable Policies
 -----------------------------
 
-+---+---+---+---+---+---+
-|   |   |   |   |   |   |
-+===+===+===+===+===+===+
-|   |   |   |   |   |   |
-+---+---+---+---+---+---+
-|   |   |   |   |   |   |
-+---+---+---+---+---+---+
-|   |   |   |   |   |   |
-+---+---+---+---+---+---+
-|   |   |   |   |   |   |
-+---+---+---+---+---+---+
-|   |   |   |   |   |   |
-+---+---+---+---+---+---+
-|   |   |   |   |   |   |
-+---+---+---+---+---+---+
-|   |   |   |   |   |   |
-+---+---+---+---+---+---+
-|   |   |   |   |   |   |
-+---+---+---+---+---+---+
-|   |   |   |   |   |   |
-+---+---+---+---+---+---+
-|   |   |   |   |   |   |
-+---+---+---+---+---+---+
-|   |   |   |   |   |   |
-+---+---+---+---+---+---+
-|   |   |   |   |   |   |
-+---+---+---+---+---+---+
-|   |   |   |   |   |   |
-+---+---+---+---+---+---+
-|   |   |   |   |   |   |
-+---+---+---+---+---+---+
-|   |   |   |   |   |   |
-+---+---+---+---+---+---+
-|   |   |   |   |   |   |
-+---+---+---+---+---+---+
-|   |   |   |   |   |   |
-+---+---+---+---+---+---+
-|   |   |   |   |   |   |
-+---+---+---+---+---+---+
-|   |   |   |   |   |   |
-+---+---+---+---+---+---+
-|   |   |   |   |   |   |
-+---+---+---+---+---+---+
-|   |   |   |   |   |   |
-+---+---+---+---+---+---+
-|   |   |   |   |   |   |
-+---+---+---+---+---+---+
-|   |   |   |   |   |   |
-+---+---+---+---+---+---+
+Appendix 3
+Roles and Applicable Policies
+Policy	CxO	G&A	IT Management
+Products Organization	Sales& Marketing
+Acceptable Use Policy
+Owner	Comply	Comply	Comply	Comply
+Backup Policy	Owner	
+Comply
+Comply	
+
+Cloud computing Policy	Owner	Comply	Comply
+Comply	Comply
+Confidential Data Policy	Owner	Comply	Comply
+Comply	Comply
+Data Classification Policy
+Owner	Comply	Comply
+Comply	Comply
+Data Protection Policy	Owner	Comply	Comply
+Comply	Comply
+Data Retention Policy	Owner	
+Comply
+Comply	
+
+Email Policy	Owner	Comply	Comply
+Comply	Comply
+Encryption Policy	Owner	
+Comply
+Comply	
+
+Guest Access Policy	Owner	
+Comply
+
+
+
+Incident Response Policy	Owner	
+Comply
+Comply	
+
+Information Asset Management Policy	Owner	
+Comply
+Comply	
+
+IT Outsourcing Policy	Owner	Comply
+Comply
+Comply	
+
+Mobile Device Policy	Owner	Comply	Comply
+Comply	Comply
+Network Access and Authentication Policy	Owner	
+Comply
+Comply	
+
+Network Security Policy	Owner	
+Comply
+Comply	
+
+Password Policy	Owner	Comply	Comply
+Comply	Comply
+Physical Security Policy	Owner	Comply	Comply
+
+
+
+Recovery Plan Policy	Owner	
+Comply
+Comply	
+
+Remote Access Policy	Owner	Comply	Comply
+Comply	Comply
+Third Party Connection Policy	Owner	
+Comply
+
+
+
+VPN Policy	Owner	
+Comply
+Comply	
+
+Wireless Network Policy	Owner		Comply		
+
