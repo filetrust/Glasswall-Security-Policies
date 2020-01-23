@@ -1,33 +1,13 @@
-### 
+# Recovery Plan Policy
 
-  -- -- -- --
-           
-           
-           
-           
-           
-  -- -- -- --
-
-  -- -- -- --
-           
-           
-           
-           
-  -- -- -- --
-
-### 
-
-Recovery Plan Policy
-====================
-
-  ------------------ -----------
-  **ID**             Policy-1
-  **Status**         Draft
-  **Release Date**   TBD
-  **Version**        v2.1
-  **Owners**         CISO, CEO
-  **Stakeholders**   
-  ------------------ -----------
+|                  |            | 
+|------------------|------------|
+| **ID**           | [Policy-8](https://glasswall.atlassian.net/browse/POLICY-8) |
+| **Status**       | Draft      |
+| **Release Date** | TBD        |
+| **Version**      | v2.1       |
+| **Owners**       | [CISO](https://glasswall.atlassian.net/browse/ROLE-38), [CEO](https://glasswall.atlassian.net/browse/ROLE-37)       |
+| **Stakeholders** | [Head of IT](https://glasswall.atlassian.net/browse/ROLE-43), Head of HR|
 
 Contents {#contents .TOC-Heading}
 ========
