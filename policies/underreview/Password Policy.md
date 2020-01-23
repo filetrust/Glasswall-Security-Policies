@@ -1,49 +1,19 @@
-### 
+# Password Policy
 
-Glasswall Password Policy
-=========================
-
-  ------------------ ------------
-  **ID**             Policy-9
-  **Status**         Draft
-  **Release Date**   TBD
-  **Version**        v2.1
-  **Owners**         CISO, CEO
-  **Stakeholders**   Head Of IT
-  ------------------ ------------
+|                  |            | 
+|------------------|------------|
+| **ID**           | [Policy-9](https://glasswall.atlassian.net/browse/POLICY-9) |
+| **Status**       | Draft      |
+| **Release Date** | TBD        |
+| **Version**      | v2.1       |
+| **Owners**       | [CISO](https://glasswall.atlassian.net/browse/ROLE-38), [CEO](https://glasswall.atlassian.net/browse/ROLE-37)       |
+| **Stakeholders** | [Head of IT](https://glasswall.atlassian.net/browse/ROLE-43), Head of HR|
 
 
- 
 
-+----------------+----------------+----------------+----------------+
-|  {#section-27} |  {#section-28} |  {#section-29} |  {#section-30} |
-+================+================+================+================+
-|  {#section-7}  |  {#section-8}  |  {#section-9}  |  {#section-10} |
-+----------------+----------------+----------------+----------------+
-|  {#section-11} |  {#section-12} |  {#section-13} |  {#section-14} |
-+----------------+----------------+----------------+----------------+
-|  {#section-15} |  {#section-16} |  {#section-17} |  {#section-18} |
-+----------------+----------------+----------------+----------------+
-|  {#section-19} |  {#section-20} |  {#section-21} |  {#section-22} |
-+----------------+----------------+----------------+----------------+
-|  {#section-23} |  {#section-24} |  {#section-25} |  {#section-26} |
-+----------------+----------------+----------------+----------------+
+Refer to Information Security Policy Guide.
 
-+----------------+----------------+----------------+----------------+
-|  {#section-51} |  {#section-52} |  {#section-53} |  {#section-54} |
-+================+================+================+================+
-|  {#section-35} |  {#section-36} |  {#section-37} |  {#section-38} |
-+----------------+----------------+----------------+----------------+
-|  {#section-39} |  {#section-40} |  {#section-41} |  {#section-42} |
-+----------------+----------------+----------------+----------------+
-|  {#section-43} |  {#section-44} |  {#section-45} |  {#section-46} |
-+----------------+----------------+----------------+----------------+
-|  {#section-47} |  {#section-48} |  {#section-49} |  {#section-50} |
-+----------------+----------------+----------------+----------------+
-
-========
-
-Glasswall Password Policy 1
+# Content
 
 1.0 Overview 3
 
