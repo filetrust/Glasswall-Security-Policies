@@ -9,10 +9,10 @@
 | **Owners**       | [CISO](https://glasswall.atlassian.net/browse/ROLE-38), [CEO](https://glasswall.atlassian.net/browse/ROLE-37)       |
 | **Stakeholders** | [Head of IT](https://glasswall.atlassian.net/browse/ROLE-43), Head of HR|
 
-Contents 
+Contents {#contents .TOC-Heading}
 ========
 
-[Network Security Policy 1](#_Toc30684535)
+[Network Security Policy 1](https://github.com/filetrust/Glasswall-Security-Policies/blob/master/policies/network-security.md)
 
 31.0 Overview
 
