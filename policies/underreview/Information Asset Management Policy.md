@@ -2,7 +2,7 @@
 
 |                  |            | 
 |------------------|------------|
-| **ID**           | [Policy-2](https://Company.atlassian.net/browse/POLICY-2) |
+| **ID**           | [Policy-2](https://glasswall.atlassian.net/browse/POLICY-2) |
 | **Status**       | Draft      |
 | **Release Date** | TBD        |
 | **Version**      | v2.1       |
