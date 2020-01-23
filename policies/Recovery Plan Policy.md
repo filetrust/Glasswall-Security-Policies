@@ -12,8 +12,6 @@
 Contents 
 ========
 
-[Network Security Policy ](https://github.com/filetrust/Glasswall-Security-Policies/blob/master/policies/network-security.md)
-
 31.0 Overview
 
 32.0 Purpose
