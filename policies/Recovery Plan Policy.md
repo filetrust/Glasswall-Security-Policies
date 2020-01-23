@@ -9,7 +9,7 @@
 | **Owners**       | [CISO](https://glasswall.atlassian.net/browse/ROLE-38), [CEO](https://glasswall.atlassian.net/browse/ROLE-37)       |
 | **Stakeholders** | [Head of IT](https://glasswall.atlassian.net/browse/ROLE-43), Head of HR|
 
-Contents {#contents .TOC-Heading}
+Contents 
 ========
 
 [Network Security Policy 1](#_Toc30684535)
