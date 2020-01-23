@@ -1,4 +1,4 @@
-# Information Security Policy Guide
+ Information Security Policy Guide
 
 |                  |            | 
 |------------------|------------|
@@ -13,7 +13,7 @@
 
 
 
-#Contents
+Contents
 ========
 
 [1.0 Introduction]
@@ -58,7 +58,7 @@
 
 [Roles and Applicable Policies]
 
-### 
+ 
 
 1.0 Introduction
 ===============
@@ -68,7 +68,7 @@ the Glasswall Solutions overall information security management
 framework and should be considered alongside more detailed information
 security documentation.
 
- Objectives, Aim and Scope {#objectives-aim-and-scope .list-paragraph}
+ Objectives, Aim and Scope 
 -------------------------
 
 The objectives of Glasswall Solutions Information Security Policy are to
@@ -90,7 +90,7 @@ preserve:
     -   Information shall be available and delivered to the right
         person, at the time when it is needed.
 
- Policy aim {#policy-aim .list-paragraph}
+ Policy aim 
 ----------
 
 The aim of this policy is to establish and maintain the security and
@@ -113,7 +113,7 @@ networks owned or held by Glasswall Solutions by:
 
 -   Protecting information assets under the control of the organisation.
 
- Scope  {#scope .list-paragraph}
+ Scope 
 -----
 
 This policy applies to all information, information systems, networks,
@@ -226,7 +226,7 @@ For US based companies all applicable US Laws apply, including:
 3.0 Policy Framework
 ===================
 
- Management of Security {#management-of-security .list-paragraph}
+ Management of Security 
 ----------------------
 
 -   At board level, responsibility for Information Security shall reside
@@ -236,14 +236,14 @@ For US based companies all applicable US Laws apply, including:
     monitoring, documenting and communicating security requirements for
     the organisation.
 
- Reporting  {#reporting .list-paragraph}
+ Reporting  
 ---------
 
 -   The C shall keep the Board informed of the information security
     status of the organisation by means of regular reports and
     presentations.
 
- Information Security Awareness Training  {#information-security-awareness-training .list-paragraph}
+ Information Security Awareness Training  
 ---------------------------------------
 
 -   A training program must be implemented that will detail the
@@ -257,7 +257,7 @@ For US based companies all applicable US Laws apply, including:
 
 -   Re-training must be performed at least annually.
 
- Security Policy Compliance {#security-policy-compliance .list-paragraph}
+ Security Policy Compliance 
 --------------------------
 
 To ensure compliance with this policy the company must do the following:
@@ -294,7 +294,7 @@ To ensure compliance with this policy the company must do the following:
 
     -   Any changes to accommodate future IT security requirements.
 
- Policy Deviations or Exceptions {#policy-deviations-or-exceptions .list-paragraph}
+ Policy Deviations or Exceptions 
 -------------------------------
 
 -   Where policies cannot be complied with, a Policy Deviation Request
@@ -332,7 +332,7 @@ To ensure compliance with this policy the company must do the following:
     -   Additional information as needed, including any specific
         conditions or requirements for approval
 
- Contracts of Employment {#contracts-of-employment .list-paragraph}
+ Contracts of Employment 
 -----------------------
 
 -   Staff security requirements shall be addressed at the recruitment
