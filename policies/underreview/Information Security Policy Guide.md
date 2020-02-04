@@ -127,7 +127,7 @@ under contract to it.
 ----------------
 
 Ultimate responsibility for information security rests with the Chief
-Officer (CO) of Glasswall Solutions, but on a day-to-day basis the shall
+Officer (CISO) of Glasswall Solutions, but on a day-to-day basis the shall
 be responsible for managing and implementing the policy and related
 procedures.
 
@@ -146,7 +146,7 @@ maintenance of data confidentiality and data integrity. Failure to do so
 may result in disciplinary action.
 
 The Information Security Policy shall be maintained, reviewed and
-updated by the CO. This review shall take place annually.
+updated by the CISO. This review shall take place annually.
 
 Each system user shall comply with the security requirements that are
 currently in force, and shall also ensure that the confidentiality,
