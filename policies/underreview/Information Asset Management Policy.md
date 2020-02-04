@@ -14,7 +14,7 @@
 
  
 
-Company is hereinafter referred to as \"the company.\"
+Glasswall is hereinafter referred to as \"the company.\"
 
 1.0 Overview
 ============
@@ -160,11 +160,10 @@ their responsibility for the documents they create.
 ### 4.2.3. Corporate information assets
 
 For information assets whose use throughout the Company is widespread
-and whose origination is as a
-
-result of a group or strategic decision, a corporate owner must be
-designated and the responsibility clearly documented. This should be the
-person who uses it the most, or has the most control over it.
+and whose origination is as a result of a group or strategic decision,
+a corporate owner must be designated and the responsibility clearly 
+documented. This should be the person who uses it the most, or has the
+most control over it.
 
 4.3 Acceptable use of Information Assets
 ----------------------------------------
