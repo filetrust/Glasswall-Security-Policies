@@ -130,6 +130,8 @@ Passwords must be reset if;
 
 -   a company password is in the public domain.
 
+-   if the password has expired.
+
 4.4 Incident Reporting
 ----------------------
 
