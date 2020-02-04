@@ -126,8 +126,7 @@ under contract to it.
  Responsibilities 
 ----------------
 
-Ultimate responsibility for information security rests with the Chief
-Officer (CO) of Glasswall Solutions, but on a day-to-day basis the shall
+Ultimate responsibility for information security rests with the CISO of Glasswall Solutions, but on a day-to-day basis the shall
 be responsible for managing and implementing the policy and related
 procedures.
 
@@ -146,7 +145,7 @@ maintenance of data confidentiality and data integrity. Failure to do so
 may result in disciplinary action.
 
 The Information Security Policy shall be maintained, reviewed and
-updated by the CO. This review shall take place annually.
+updated by the CISO and Information Security squad. This review shall take place annually.
 
 Each system user shall comply with the security requirements that are
 currently in force, and shall also ensure that the confidentiality,
@@ -230,16 +229,16 @@ For US based companies all applicable US Laws apply, including:
 ----------------------
 
 -   At board level, responsibility for Information Security shall reside
-    with the CEO.
+    with the CEO?.
 
--   The organisation's CO shall be responsible for implementing,
+-   The organisation's CISO shall be responsible for implementing,
     monitoring, documenting and communicating security requirements for
     the organisation.
 
  Reporting  
 ---------
 
--   The C shall keep the Board informed of the information security
+-   The CEO shall keep the Board informed of the information security
     status of the organisation by means of regular reports and
     presentations.
 
