@@ -34,7 +34,7 @@ Contents
 
 [3.1 Management of Security]
 
-[3.2 Reporting](\l)
+[3.2 Reporting]
 
 [3.3 Information Security Awareness Training]
 
