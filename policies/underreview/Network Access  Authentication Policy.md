@@ -75,7 +75,7 @@ During initial account setup, the following policies apply:
 For network accounts, the following policies apply:
 
 -   For company employees, accounts must be created using a standard
-    format of \[firstinitial\]\[lastname\].
+    format of \[firstinitial\]\[lastname\]. Do we need a policy deviation here?
 
 -   For authorised temporary employees, contractors, or other
     individuals, accounts must be created using a standard format for
