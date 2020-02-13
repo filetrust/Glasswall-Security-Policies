@@ -239,7 +239,7 @@ For US based companies all applicable US Laws apply, including:
  Reporting  
 ---------
 
--   The C shall keep the Board informed of the information security
+-   The CO shall keep the Board informed of the information security
     status of the organisation by means of regular reports and
     presentations.
 
@@ -376,8 +376,6 @@ that asset.
         for the use of confidential data and outlines specific security
         controls to protect this data including storing, transmission
         and destruction.
-
-    -   
 
 -   Cloud Computing Policy
 
