@@ -1,85 +1,13 @@
-##
+# Confidential Data Policy
 
-## Glasswall Solutions Ltd.
-
-##
-
-## Confidential Data Policy
-
-##
-
-### Information contained herein is the property of Glasswall Limited and is company confidential.
-
-
-
-
-
-
-
-### Version 2.0
-
-### Document History
-
-### Table 1: Document Change History
-
-|
-### _Issue Date_
- |
-### _Issue Number_
- |
-### _Document Owner_
- |
-### _Description_
- |
-| --- | --- | --- | --- |
-|
-### 2
-# nd
- January 2018
- |
-### 2.0
- | |
-### Final Draft
- |
-| | | | |
-| | | | |
-| | | | |
-| | | | |
-
-### Document Distribution
-
-### Table 2: Document Distribution
-
-|
-### _Name_
- |
-### _Position_
- |
-### _Date_
- |
-### _Signature_
- |
-| --- | --- | --- | --- |
-|
-### Mark Wheelhouse
- |
-### CFO
- |
-### 2
-# nd
- January 2018
- | |
-|
-### Paul Kennedy
- |
-### VP, Product Development
- |
-### 2
-# nd
- January 2018
- | |
-| | | | |
-| | | | |
+|                  |            | 
+|------------------|------------|
+| **ID**           | [Policy-8](https://glasswall.atlassian.net/browse/POLICY-11) |
+| **Status**       | Draft      |
+| **Release Date** | TBD        |
+| **Version**      | v2.1       |
+| **Owners**       | [CISO](https://glasswall.atlassian.net/browse/ROLE-38), [CEO](https://glasswall.atlassian.net/browse/ROLE-37)       |
+| **Stakeholders** | [Head of IT](https://glasswall.atlassian.net/browse/ROLE-43), Head of HR|
 
 ### Contents
 
