@@ -2,7 +2,7 @@
 
 |                  |            | 
 |------------------|------------|
-| **ID**           | [Policy-8](https://glasswall.atlassian.net/browse/POLICY-13) |
+| **ID**           | [Policy-13](https://glasswall.atlassian.net/browse/POLICY-13) |
 | **Status**       | Draft      |
 | **Release Date** | TBD        |
 | **Version**      | v2.1       |
