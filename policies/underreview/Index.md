@@ -12,3 +12,5 @@ Data Retention Policy [Policy-12](https://glasswall.atlassian.net/browse/POLICY-
 Email Policy [Policy-13](https://glasswall.atlassian.net/browse/POLICY-13)
 
 Incident Response Policy [Policy-14](https://glasswall.atlassian.net/browse/POLICY-14)
+
+Encryption Policy [Policy-15](https://glasswall.atlassian.net/browse/POLICY-15)
