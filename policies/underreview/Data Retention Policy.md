@@ -1,7 +1,3 @@
-# Retention Policy
-
-
-
 # Data Retention Policy
 
 
