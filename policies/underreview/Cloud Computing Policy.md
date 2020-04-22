@@ -79,25 +79,30 @@ The Outsourcing Policy must be followed when selecting any Cloud Computing Servi
 #### 4.1.3 For Users, the following applies;
 
 - Users are not permitted to accept or agree to terms of service on behalf of the Company, such agreements must be reviewed and approved   by the IT Manager or Management.
+
 - Creation of and use of any new Azure and AWS cloud computing subscriptions
- for work purposes must be formally authorized by the IT Manager. The IT Team
+ for work purposes must be formally authorized by the IT Manager or Security Champion of the applicable squad. The IT and InfoSec Team
  will track all existing cloud computing resources created.
 
 - For any cloud services that require users to agree to terms of service, such
-  agreements must be reviewed and approved by the IT Manager.
-  Glasswall Solutions Ltd. – Cloud Computing Policy - Company Confidential
+  agreements must be reviewed and approved by the IT Manager or Security Champion from the applicable squad.
 
 - The use and creation of such services and resources must comply with
   Glasswall’s existing Acceptable Use Policy.
 
 - No instance in the Glasswall Cloud Environment should have a publicly facing IP
   and should not be visible to any OSINT tools, unless agreed otherwise with the
-  IT Manager
-- The IT Manager decides what data may or may not be stored in the Cloud.
-  Users must not share log-in credentials and must not use shared accounts. They
+  IT Manager or Security Champion from the applicable squad.
+  
+- Any resource created in the AWS or Azure environment should have a security tag. If resources do not have a security tag they will be   reviewed by the IT or InfoSec team with the outcome of possible removal of the same. The Security Champion should have an overview of   all the assets tagged and monitor them regularly. 
+
+- Any new resource created in the cloud environment needs to have a threat model in place before deployment
+  
+- The IT Manager or the Security Champion from the applicable squad decides what data may or may not be stored in the Cloud.
+  
+- Users must not share log-in credentials and must not use shared accounts. They
   must follow the existing Password Policy in creating credentials
 
-- Users must not share log-in credentials and must not use shared accounts. 
 
 ### 4.2 Handling of Company Data When Using Cloud Computing Services 
 
@@ -131,7 +136,7 @@ This document is part of the company's cohesive set of security policies.  Other
 
 ## 5.0 Enforcement 
 
-This policy will be enforced by the IT Manager and/or Executive Team. Violations may result in disciplinary action, which may include suspension, restriction of access, or more severe penalties up to and including termination of employment. Where illegal activities or theft of company property (physical or intellectual) are suspected, the company may report such activities to the applicable authorities.
+This policy will be enforced by the IT Manager and/or Executive Team. The appointed Security Champion of each squad is allocated to enforce this policy on the IT Manager's behalf. Violations may result in disciplinary action, which may include suspension, restriction of access, or more severe penalties up to and including termination of employment. Where illegal activities or theft of company property (physical or intellectual) are suspected, the company may report such activities to the applicable authorities.
 
 ## 6.0 Definitions 
 
