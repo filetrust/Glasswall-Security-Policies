@@ -1,9 +1,9 @@
-# Data Classification Policy
+﻿# Data Classification Policy
 
 |                  |            | 
 |------------------|------------|
 | **ID**           | [Policy-3](https://glasswall.atlassian.net/browse/POLICY-3) |
-| **Status**       | Draft      |
+| **Status**       |Approved by InfoSec, Awaiting Final Approval        |
 | **Release Date** | TBD        |
 | **Version**      | v2.2       |
 | **Owners**       | [CISO](https://glasswall.atlassian.net/browse/ROLE-38), [CEO](https://glasswall.atlassian.net/browse/ROLE-37)       |

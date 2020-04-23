@@ -1,10 +1,10 @@
-
+﻿
 # Backup 
 
 |                  |            | 
 |------------------|------------|
 | **ID**           | [Policy-5](https://glasswall.atlassian.net/browse/POLICY-5) |
-| **Status**       | Draft      |
+| **Status**       |Approved by InfoSec, Awaiting Final Approval        |
 | **Release Date** | TBD        |
 | **Version**      | v2.1       |
 | **Owners**       | [CISO](https://glasswall.atlassian.net/browse/ROLE-38), [CEO](https://glasswall.atlassian.net/browse/ROLE-37)       |

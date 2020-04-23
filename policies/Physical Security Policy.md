@@ -2,9 +2,9 @@
 
 |                  |            | 
 |------------------|------------|
-| **ID**           | [Policy-9](https://glasswall.atlassian.net/browse/POLICY-9) |
+| **ID**           | [Policy-9](https://glasswall.atlassian.net/browse/POLICY-25) |
 | **Status**       | Draft      |
-| **Release Date** | TBD        |
+| **Release Date** |Approved by InfoSec, Awaiting Final Approval|
 | **Version**      | v2.0       |
 | **Owners**       | [CISO](https://glasswall.atlassian.net/browse/ROLE-38), [CEO](https://glasswall.atlassian.net/browse/ROLE-37)       |
 | **Stakeholders** | [Head of IT](https://glasswall.atlassian.net/browse/ROLE-43), Head of HR|

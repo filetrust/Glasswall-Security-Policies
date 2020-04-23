@@ -1,9 +1,9 @@
-# Acceptable Use Policy 
+﻿# Acceptable Use Policy 
 
 |                  |            | 
 |------------------|------------|
 | **ID**           | [Policy-6](https://glasswall.atlassian.net/browse/POLICY-6) |
-| **Status**       | Draft      |
+| **Status**       |Approved by InfoSec, Awaiting Final Approval        |
 | **Release Date** | TBD        |
 | **Version**      | v2.1       |
 | **Owners**       | [CISO](https://glasswall.atlassian.net/browse/ROLE-38), [CEO](https://glasswall.atlassian.net/browse/ROLE-37)       |

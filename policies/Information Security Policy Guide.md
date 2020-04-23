@@ -1,9 +1,9 @@
- Information Security Policy Guide
+﻿ Information Security Policy Guide
 
 |                  |            | 
 |------------------|------------|
 | **ID**           | [Policy-8](https://glasswall.atlassian.net/browse/POLICY-8) |
-| **Status**       | Draft      |
+| **Status**       | Approved by InfoSec, Awaiting Final Approval              |
 | **Release Date** | TBD        |
 | **Version**      | v2.1       |
 | **Owners**       | [CISO](https://glasswall.atlassian.net/browse/ROLE-38), [CEO](https://glasswall.atlassian.net/browse/ROLE-37)       |

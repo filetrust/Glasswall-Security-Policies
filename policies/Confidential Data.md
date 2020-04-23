@@ -1,9 +1,9 @@
-# Confidential Data Policy
+﻿# Confidential Data Policy
 
 |                  |            | 
 |------------------|------------|
 | **ID**           | [Policy-11](https://glasswall.atlassian.net/browse/POLICY-11) |
-| **Status**       | Draft      |
+| **Status**       | Approved by InfoSec, Awaiting Final Approval             |
 | **Release Date** | TBD        |
 | **Version**      | v2.1       |
 | **Owners**       | [CISO](https://glasswall.atlassian.net/browse/ROLE-38), [CEO](https://glasswall.atlassian.net/browse/ROLE-37)       |

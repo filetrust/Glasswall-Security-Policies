@@ -1,9 +1,9 @@
-# IT Outsourcing Policy
+﻿# IT Outsourcing Policy
 
 |                  |            | 
 |------------------|------------|
-| **ID**           | [Policy-1](https://glasswall.atlassian.net/browse/POLICY-1) |
-| **Status**       | Draft      |
+| **ID**           | [Policy-1](https://glasswall.atlassian.net/browse/POLICY-20) |
+| **Status**       | Approved by InfoSec, Awaiting Final Approval              |
 | **Release Date** | TBD        |
 | **Version**      | v2.0       |
 | **Owners**       | [CISO](https://glasswall.atlassian.net/browse/ROLE-38), [CEO](https://glasswall.atlassian.net/browse/ROLE-37)       |

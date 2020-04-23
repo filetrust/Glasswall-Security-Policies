@@ -1,9 +1,9 @@
-# Encryption Policy
+﻿# Encryption Policy
 
 |                  |            | 
 |------------------|------------|
 | **ID**           | [Policy-15](https://glasswall.atlassian.net/browse/POLICY-15) |
-| **Status**       | Draft      |
+| **Status**       | Approved by InfoSec, Awaiting Final Approval             |
 | **Release Date** | TBD        |
 | **Version**      | v2.1       |
 | **Owners**       | [CISO](https://glasswall.atlassian.net/browse/ROLE-38), [CEO](https://glasswall.atlassian.net/browse/ROLE-37)       |

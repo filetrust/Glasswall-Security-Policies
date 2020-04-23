@@ -3,7 +3,7 @@
 |                  |            | 
 |------------------|------------|
 | **ID**           | [Policy-9](https://glasswall.atlassian.net/browse/POLICY-9) |
-| **Status**       | Draft      |
+| **Status**       |Approved by InfoSec, Awaiting Final Approval        |
 | **Release Date** | TBD        |
 | **Version**      | v2.1       |
 | **Owners**       | [CISO](https://glasswall.atlassian.net/browse/ROLE-38), [CEO](https://glasswall.atlassian.net/browse/ROLE-37)       |
