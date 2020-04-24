@@ -2,7 +2,7 @@
 
 This repo contains the security policies that we use at Glasswall
 
-Please contribute and send Pull Requests with your views
+Please contribute and send Pull Requests
 
 **Other organisations that share their policies and documents**
 
