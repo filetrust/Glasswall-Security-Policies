@@ -98,7 +98,7 @@ The Outsourcing Policy must be followed when selecting any Cloud Computing Servi
 
 - Any new resource created in the cloud environment needs to have a threat model in place before deployment
   
-- The IT Manager or the Security Champion from the applicable squad decides what data may or may not be stored in the Cloud.
+- The IT Manager or the Security Champion from the applicable squad decides what data may or may not be stored in the Open Source/Public Cloud.
   
 - Users must not share log-in credentials and must not use shared accounts. They
   must follow the existing Password Policy in creating credentials
