@@ -5,7 +5,7 @@
 |                  |            | 
 |------------------|------------|
 | **ID**           | [Policy-12](https://glasswall.atlassian.net/browse/POLICY-12) |
-| **Status**       | Approved by InfoSec, Awaiting Final Approval              |
+| **Status**       | Approved             |
 | **Release Date** | TBD        |
 | **Version**      | v2.1       |
 | **Owners**       | [CISO](https://glasswall.atlassian.net/browse/ROLE-38), [CEO](https://glasswall.atlassian.net/browse/ROLE-37)       |
