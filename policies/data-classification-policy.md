@@ -100,6 +100,31 @@ Critical data must be stored on a server that gets the most frequent backups (re
 
 Confidential information must be removed from desks, computer screens, and common areas unless it is currently in use. Confidential information should be stored under lock and key (or key card/keypad), with the key, key card, or code secured.
 
+### 4.3 Cloud Storage
+
+The following guidelines apply to storage of the different types of company data.
+
+##### 4.2.1.1 Personal
+
+There are no requirements for personal information.
+
+##### 4.2.1.2 Public
+
+There are no requirements for public information.
+
+#### 4.2.3 Operational
+
+Operational data must be stored where the backup schedule is appropriate to the importance of the data, at the discretion of the user.
+
+#### 4.2.4 Critical
+
+Critical data must be stored on a storage medium that gets the most frequent backups (refer to the Backup Policy for additional information).  System- or disk-level redundancy is required.
+
+#### 4.2.5 Confidential
+
+ Confidential information should be stored under lock and key (or key card/keypad), with the key, key card, or code secured.
+
+
 ### 4.3 Data Transmission
 
 The following guidelines apply to transmission of the different types of company data.
