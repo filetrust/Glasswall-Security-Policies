@@ -172,7 +172,7 @@ Regarding encryption, please refer to the companiescompany&#39;s encryption poli
 
 ### 5.0 Enforcement
 
-This policy will be enforced by the IT Manager and/or Executive Team. Violations may result in disciplinary action, which may include suspension, restriction of access, or more severe penalties up to and including termination of employment. Where illegal activities or theft of company property (physical or intellectual) are suspected, the company may report such activities to the applicable authorities.
+This policy will be enforced by the IT Manager and/or Executive Team. Where illegal activities or theft of company property (physical or intellectual) are suspected, the company may report such activities to the applicable authorities.
 
 ### 6.0 Definitions
 
