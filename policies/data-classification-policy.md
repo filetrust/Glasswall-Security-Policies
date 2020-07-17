@@ -162,7 +162,7 @@ There are no requirements for public information.
 
 #### 4.4.3 Operational
 
-There are no requirements for the destruction of Operational Data, though shredding is encouraged.
+There are no requirements for the destruction of Operational Data, though shredding of Physical media and secure disposal of Digital media is encouraged, 
 
 #### 4.4.4 Critical
 
@@ -184,7 +184,7 @@ This document is part of the company's cohesive set of security policies. Other 
 
 ## 5.0 Enforcement
 
-This policy will be enforced by the Head of IT and/or Executive Team. Violations may result in disciplinary action, which may include suspension, restriction of access, or more severe penalties up to and including termination of employment. Where illegal activities or theft of company property (physical or intellectual) are suspected, the company may report such activities to the applicable authorities.
+This policy will be enforced by the Head of IT and/or Executive Team. Where illegal activities or theft of company property (physical or intellectual) are suspected, the company may report such activities to the applicable authorities.
 
 ## 6.0 Definitions
 
