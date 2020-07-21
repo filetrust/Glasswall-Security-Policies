@@ -31,11 +31,11 @@ Glasswall is hereinafter referred to as &quot;the company.&quot;
 
 ### 1.0 Overview
 
-The engineering teams needs realistic data files for a number of reasons. Because of the nature of the companies products some of these files are malicious. Also our customers provide data for support cases that may also be malicious and/or confidential. In addition to creating specific test data some data is periodically scraped from the internet or acquired from other sources. A policy is therefore needed to govern the aquiistion, storage and destruction of test data.
+The engineering teams needs realistic data files for a number of reasons. Due to the nature of the company's products some of these files are malicious. Also our customers provide data for support cases that may also be malicious and/or confidential. In addition to creating specific test data some data is periodically scraped from the internet or acquired from other sources. A policy is therefore needed to govern the acquisition, storage and destruction of test data.
 
 ### 2.0 Purpose
 
-The purpose of this policy is to specify the company&#39;s guidelines for aqcuiring, storing and deletion of test data. 
+The purpose of this policy is to specify the company&#39;s guidelines for acquiring, storing and deletion of test data. 
 
 ### 3.0 Scope
 
@@ -52,21 +52,21 @@ Malicious files, such as malware or viruses, should not be stored long term on t
 
 The normal method for testing known malicious files is:
 
-1) Download the required file from virustotal or similar service to a seperate or segragated area, e.g. a container.
+1) Download the required file from virustotal or similar service to a separate or segragated area, e.g. a container.
 2) Run the test
 3) Delete the file.
 
 Malicious files may be stored temporarily under the following conditions:
 
 1) The area used is segregated or separated from other test data storage areas.
-2) Each file is in a passworded zip file.
+2) Each file is in a password protected zip file.
 3) Once the need for the file has passed it is deleted.
 
 The above policies are designed to reduce the chance of an accidential detonation of malware within the company&#39;s infrastructure.
 
 #### 4.2 Customer Data
 
-Data from customers should only be retained by the engineering teams for as long has been agreed with that customer. Such data may be retained by other parts of the business separately in line with other retention policies, e.g. in support databases. Customer data files should be stored in a separate aeaa to other test data. 
+Data from customers should only be retained by the engineering teams for as long has been agreed with that customer. Such data may be retained by other parts of the business separately in line with other retention policies, e.g. in support databases. Customer data files should be stored in a separate area to other test data. 
 
 Any confidential customer supplied test data must be password pretected.
 
@@ -75,7 +75,7 @@ Any confidential customer supplied test data must be password pretected.
 
 All data acquired from external sources, including files directly from customers, should be treated as potentially malicious.
 
-If it is not known if an acquired file is malicious or potetnially malicious it should be virus scanned before adding to any data set. Files should be stored in a segregated area until considered safe.
+If it is not known if an acquired file is malicious or potentially malicious it should be virus scanned before adding to any data set. Files should be stored in a segregated area until considered safe.
 
 
 #### 4.4 Personal Data
@@ -85,13 +85,13 @@ Any personal data used for testing must be stored in accordance with the relevan
 
 #### 4.5 Data Destruction
 
-Once test data is deemed to be no longer requierd it should be deleted from the company&#39;s infrastrucure in accordance with the relevant data retention policy
+Once test data is deemed to be no longer required it should be deleted from the company&#39;s infrastrucure in accordance with the relevant data retention policy
 
 #### 4.6 Data Sharing or Publishing
 
 Any test data considered confidential may only be shared with the express permission of the data owner and must not be put in any public repository, file share or similar. 
 
-Test data files to be shared publically or with external parties must only be shared if we have the right to do so. Consideration should be given to any copyright or relevant legislation. Any data shared or published should include a statement on ownership/copyright, e.g. if glasswall, creative commons or some other third party copyright.
+Test data files to be shared publically or with external parties must only be shared if we have the right to do so. Consideration should be given to any copyright or relevant legislation. Any data shared or published should include a statement on ownership/copyright, e.g. if Glasswall, creative commons or some other third party copyright.
 
 #### 4.7 Applicability of Other Policies
 
@@ -105,7 +105,7 @@ This policy will be enforced by the IT Manager and/or Executive Team. Violations
 
 Refer to Information Security Policy Guide.
 
-Acquired file - a file purchased, downloaded or sent from an extrnal source. It includes customer supplied data files.
+Acquired file - a file purchased, downloaded or sent from an external source. It includes customer supplied data files.
 
 Rendered
 Glasswall Solutions Ltd.
