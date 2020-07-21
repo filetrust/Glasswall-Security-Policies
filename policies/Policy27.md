@@ -41,9 +41,6 @@ The purpose of this policy is to specify the company&#39;s guidelines for acquir
 
 The scope of this policy covers all test data used by engineering teams working on the company&#39;s products.
 
-The creation of bespoke test data is out of scope.
-
-
 ### 4.0 Policy
 
 #### 4.1 Handling Malicious Files
@@ -62,13 +59,15 @@ Malicious files may be stored temporarily under the following conditions:
 2) Each file is in a password protected zip file.
 3) Once the need for the file has passed it is deleted.
 
+Malicious data until identified should be only handled in a containarised or isolated environment.
+
 The above policies are designed to reduce the chance of an accidential detonation of malware within the company&#39;s infrastructure.
 
 #### 4.2 Customer Data
 
-Data from customers should only be retained by the engineering teams for as long has been agreed with that customer. Such data may be retained by other parts of the business separately in line with other retention policies, e.g. in support databases. Customer data files should be stored in a separate area to other test data. 
+Data from customers should only be retained by the engineering teams for as long has been agreed with that customer. Such data may be retained by other parts of the business separately in line with other retention policies, e.g. in support databases. Customer data files should be anonymised where required and stored in a separate area to other test data. 
 
-Any confidential customer supplied test data must be password pretected.
+Any confidential customer supplied test data must be password protected.
 
 
 #### 4.3 Files Acquired from External Sources.
@@ -80,7 +79,7 @@ If it is not known if an acquired file is malicious or potentially malicious it 
 
 #### 4.4 Personal Data
 
-Any personal data used for testing must be stored in accordance with the relevant security policy and legislation, i.e. GDPR.
+Any personal data used for testing must be stored in accordance with the Data Classification Policy and legislation, i.e. GDPR.
 
 
 #### 4.5 Data Destruction
@@ -89,17 +88,17 @@ Once test data is deemed to be no longer required it should be deleted from the 
 
 #### 4.6 Data Sharing or Publishing
 
-Any test data considered confidential may only be shared with the express permission of the data owner and must not be put in any public repository, file share or similar. 
+Any test data considered critical or confidential may only be shared with the express permission of the data owner and must not be put in any public repository, file share or similar. 
 
 Test data files to be shared publically or with external parties must only be shared if we have the right to do so. Consideration should be given to any copyright or relevant legislation. Any data shared or published should include a statement on ownership/copyright, e.g. if Glasswall, creative commons or some other third party copyright.
 
 #### 4.7 Applicability of Other Policies
 
-This document is part of the company&#39;s cohesive set of security policies.  Other policies may apply to the topics covered in this document and as such the applicable policies should be reviewed as needed.
+This document is part of the company&#39;s cohesive set of security policies. Other policies may apply to the topics covered in this document and as such the applicable policies should be reviewed as needed.
 
 ### 5.0 Enforcement
 
-This policy will be enforced by the IT Manager and/or Executive Team. Violations may result in disciplinary action, which may include suspension, restriction of access, or more severe penalties up to and including termination of employment. Where illegal activities or theft of company property (physical or intellectual) are suspected, the company may report such activities to the applicable authorities.
+This policy will be enforced by the Head of InfoSec and/or Executive Team. Violations may result in disciplinary action, which may include suspension, restriction of access, or more severe penalties up to and including termination of employment. Where illegal activities or theft of company property (physical or intellectual) are suspected, the company may report such activities to the applicable authorities.
 
 ### 6.0 Definitions
 
@@ -112,15 +111,6 @@ Glasswall Solutions Ltd.
 Data
 Retention Policy
 Information contained herein is the property of Glasswall Limited and is company confidential.
-Revision 0.1
-Document History
-Table 1: Document Change History
-Issue Date	Issue Number	Document Owner	Description
-14th July  2020 | 0.1 | | First Draft | | | | | | | | | | | | | | | | | | | | |
-
-Document Distribution
-Table 2: Document Distribution
-Name	Position	Date	Signature
 
 
 Data Retention Policy
