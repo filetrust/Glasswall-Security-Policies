@@ -3,7 +3,7 @@
 
 |                  |            | 
 |------------------|------------|
-| **ID**           | [Policy-27](https://glasswall.atlassian.net/browse/POLICY-27) |
+| **ID**           | [Test Data Policy](https://glasswall.atlassian.net/browse/POLICY-27) |
 | **Status**       | Draft      |
 | **Release Date** | TBD        |
 | **Version**      | v0.1       |
