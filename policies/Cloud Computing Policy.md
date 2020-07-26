@@ -92,9 +92,7 @@ The Outsourcing Policy must be followed when selecting any Cloud Computing Servi
 
 - No instance in the Glasswall Cloud Environment should have a publicly facing IP
   and should not be visible to any OSINT tools, unless agreed otherwise with the
-  IT Manager or Security Champion from the applicable squad.
-  
-- Any resource created in the AWS or Azure environment should have a security tag. If resources do not have a security tag they will be   reviewed by the IT or InfoSec team with the outcome of possible removal of the same. The Security Champion should have an overview of   all the assets tagged and monitor them regularly. 
+  IT Manager or Security Champion from the applicable squad. Open ports should be only for neccessary services, all other ports should be closed.
 
 - Any new resource created in the cloud environment needs to have a threat model in place before deployment
   
