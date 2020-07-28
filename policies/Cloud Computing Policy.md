@@ -138,4 +138,4 @@ This policy will be enforced by the IT Manager and/or Executive Team. The appoin
 
 ## 6.0 Definitions 
 
-Refer to Glasswall Information Security Policy Guide.
+Refer to Glasswall Information Security Policy Guide. 
