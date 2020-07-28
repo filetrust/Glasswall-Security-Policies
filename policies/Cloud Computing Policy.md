@@ -87,12 +87,12 @@ The Outsourcing Policy must be followed when selecting any Cloud Computing Servi
 - For any cloud services that require users to agree to terms of service, such
   agreements must be reviewed and approved by the IT Manager or Security Champion from the applicable squad.
 
-- The use and creation of such services and resources must comply with
-  Glasswall’s existing Acceptable Use Policy.
+- The use and creation of such services and resources must comply with Glasswall’s existing Acceptable Use Policy.
 
 - No instance in the Glasswall Cloud Environment should have a publicly facing IP
-  and should not be visible to any OSINT tools, unless agreed otherwise with the
-  IT Manager or Security Champion from the applicable squad. Open ports should be only for neccessary services, all other ports should be closed.
+  and should not be visible to any OSINT tools, unless agreed otherwise with the IT Manager or Security Champion from the applicable squad. 
+  
+- Firewall policies should take into consideration that open ports should be only for required services and everything else blocked by default.
 
 - Any new resource created in the cloud environment needs to have a threat model in place before deployment
   
