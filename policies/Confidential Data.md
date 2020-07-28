@@ -69,6 +69,7 @@ For clarity, the following sections on storage, transmission, and destruction of
 ### 4.1.1 Storage
 
 Confidential information must be removed from desks, computer screens, and common areas unless it is currently in use.  Confidential information should be stored under lock and key (or keycard/keypad), with the key, keycard, or code secured.
+Passwords, Secrets and API keys must not be stored in plain text in any part of code. 
 
 ### 4.1.2 Transmission
 
