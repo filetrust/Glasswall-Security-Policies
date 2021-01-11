@@ -1,4 +1,4 @@
-# Third Party Connection Policy
+# Third Party Connection/Vendor Management Policy
 
 |                  |            | 
 |------------------|------------|
