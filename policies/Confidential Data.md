@@ -69,6 +69,7 @@ For clarity, the following sections on storage, transmission, and destruction of
 ### 4.1.1 Storage
 
 Confidential information must be removed from desks, computer screens, and common areas unless it is currently in use.  Confidential information should be stored under lock and key (or keycard/keypad), with the key, keycard, or code secured.
+Passwords, Secrets and API keys must not be stored in plain text in any part of code. 
 
 ### 4.1.2 Transmission
 
@@ -80,9 +81,10 @@ Confidential data must be destroyed in a manner that makes recovery of the infor
 
 - Paper/documents: cross cut shredding is required.
 - Storage media (CD&#39;s, DVD&#39;s): approved methods of destruction is required.
-- The following applies to, but is not limited to, Hard Drives, USB Storage Devices etc:
+- The following applies to, but is not limited to, Hard Drives, USB Storage Devices, virtual or cloud devices etc:
   - All data must be securely overwritten or wiped, and must use an approved secure file deletion utility.
   - Physical devices that cannot be overwritten or wiped must be destroyed beyond recovery.
+  - Removal of cloud stored data must comply with the cloud provider data removal and destruction best practises
 
 #### 4.2 Use of Confidential Data
 
@@ -172,7 +174,7 @@ Regarding encryption, please refer to the companiescompany&#39;s encryption poli
 
 ### 5.0 Enforcement
 
-This policy will be enforced by the IT Manager and/or Executive Team. Violations may result in disciplinary action, which may include suspension, restriction of access, or more severe penalties up to and including termination of employment. Where illegal activities or theft of company property (physical or intellectual) are suspected, the company may report such activities to the applicable authorities.
+This policy will be enforced by the IT Manager and/or Executive Team. Where illegal activities or theft of company property (physical or intellectual) are suspected, the company may report such activities to the applicable authorities.
 
 ### 6.0 Definitions
 

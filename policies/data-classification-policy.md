@@ -100,6 +100,31 @@ Critical data must be stored on a server that gets the most frequent backups (re
 
 Confidential information must be removed from desks, computer screens, and common areas unless it is currently in use. Confidential information should be stored under lock and key (or key card/keypad), with the key, key card, or code secured.
 
+### 4.3 Cloud Storage
+
+The following guidelines apply to storage of the different types of company data.
+
+##### 4.2.1.1 Personal
+
+There are no requirements for personal information.
+
+##### 4.2.1.2 Public
+
+There are no requirements for public information.
+
+#### 4.2.3 Operational
+
+Operational data must be stored where the backup schedule is appropriate to the importance of the data, at the discretion of the user.
+
+#### 4.2.4 Critical
+
+Critical data must be stored on a storage medium that gets the most frequent backups (refer to the Backup Policy for additional information).  System- or disk-level redundancy is required.
+
+#### 4.2.5 Confidential
+
+ Confidential information should be stored under lock and key (or key card/keypad), with the key, key card, or code secured.
+
+
 ### 4.3 Data Transmission
 
 The following guidelines apply to transmission of the different types of company data.
@@ -137,7 +162,7 @@ There are no requirements for public information.
 
 #### 4.4.3 Operational
 
-There are no requirements for the destruction of Operational Data, though shredding is encouraged.
+There are no requirements for the destruction of Operational Data, though shredding of Physical media and secure disposal of Digital media is encouraged, 
 
 #### 4.4.4 Critical
 
@@ -159,7 +184,7 @@ This document is part of the company's cohesive set of security policies. Other 
 
 ## 5.0 Enforcement
 
-This policy will be enforced by the Head of IT and/or Executive Team. Violations may result in disciplinary action, which may include suspension, restriction of access, or more severe penalties up to and including termination of employment. Where illegal activities or theft of company property (physical or intellectual) are suspected, the company may report such activities to the applicable authorities.
+This policy will be enforced by the Head of IT and/or Executive Team. Where illegal activities or theft of company property (physical or intellectual) are suspected, the company may report such activities to the applicable authorities.
 
 ## 6.0 Definitions
 
@@ -173,7 +198,7 @@ Refer to Glasswall Information Security Policy Guide (**Todo:** add link to Poli
 |--------------|-----------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|---------------------------------------------------------------------------------|
 | Personal     | includes user's personal data                                                                                   | Photos, emails, documents, etc.                                                                                                                                                     | N/A                                                                                                                                                                                                                                                                         | N/A                                                                   | N/A                                                                             |
 | Public       | includes information or data approved for public consumption.                                                   | marketing material, commonly known information, etc.                                                                                                                                | N/A                                                                                                                                                                                                                                                                         | N/A                                                                   | N/A                                                                             |
-| Operational  | includes data for basic business operations                                                                     | communications with vendors, employees, (non-confidential) Business Sensitive emails, memos, notes, Service Contracts, etc.                                                         | Operational data must be stored where the backup schedule is appropriate to the importance of the data                                                                                                                                                                      | data should not be transmitted unless necessary for business purposes | Paper documents must be shredded                                                |
-| Critical     | any information deemed critical to business operations (often this data is operational or confidential as well) | Assessment reviews, Gap Analysis, Assessment Reports, Network Diagrams                                                                                                              | Critical data must be stored on a server that gets the most frequent backups                                                                                                                                                                                                | Strong encryption must be used                                        | Paper documents must be shredded                                                |
+| Operational  | includes data for basic business operations                                                                     | communications with vendors, employees, (non-confidential) Business Sensitive emails, memos, notes, Service Contracts, etc.                                                         | Operational data must be stored where the backup schedule is appropriate to the importance of the data                                                                                                                                                                      | data should not be transmitted unless necessary for business purposes | Paper documents must be shredded, secure disposal of Digital media                                                |
+| Critical     | any information deemed critical to business operations (often this data is operational or confidential as well) | Assessment reviews, Gap Analysis, Assessment Reports, Network Diagrams                                                                                                              | Critical data must be stored on a server that gets the most frequent backups                                                                                                                                                                                                | Strong encryption must be used                                        | Paper documents must be shredded, secure disposal of Digital media                                                |
 | Confidential | any information deemed proprietary to the business or is HR related                                             | Date of Birth, Address, Religion, Contact Details, Bank Details, Financial Details, Medical Details, Any usernames or Passwords, Encryption Keys, PIN or access control identifiers | Physical Security Details,Confidential information must be removed from desks, computer screens, and common areas unless it is currently in use. Confidential information should be stored under lock and key (or key card/keypad), with the key, key card, or code secured | Strong encryption must be used                                        | Must be destroyed in a manner that makes recovery of the information impossible |
 

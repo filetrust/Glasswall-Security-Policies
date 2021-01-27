@@ -87,19 +87,20 @@ The Outsourcing Policy must be followed when selecting any Cloud Computing Servi
 - For any cloud services that require users to agree to terms of service, such
   agreements must be reviewed and approved by the IT Manager or Security Champion from the applicable squad.
 
-- The use and creation of such services and resources must comply with
-  Glasswall’s existing Acceptable Use Policy.
+- The use and creation of such services and resources must comply with Glasswall’s existing Acceptable Use Policy.
 
 - No instance in the Glasswall Cloud Environment should have a publicly facing IP
-  and should not be visible to any OSINT tools, unless agreed otherwise with the
-  IT Manager or Security Champion from the applicable squad.
+  and should not be visible to any OSINT tools, unless agreed otherwise with the IT Manager or Security Champion from the applicable squad. 
   
-- Any resource created in the AWS or Azure environment should have a security tag. If resources do not have a security tag they will be   reviewed by the IT or InfoSec team with the outcome of possible removal of the same. The Security Champion should have an overview of   all the assets tagged and monitor them regularly. 
+- Firewall policies should take into consideration that open ports should be only for required services and everything else blocked by default.
+
+- Any resource created in the AWS or Azure environment should have a tag. If resources do not have a tag they will be reviewed by the IT or InfoSec team with the outcome of possible removal of the same. The Security Champion should have an overview of all the assets tagged and monitor them regularly. The tags need to contain the owner of the resource, the team and the scope. 
 
 - Any new resource created in the cloud environment needs to have a threat model in place before deployment
   
-- The IT Manager or the Security Champion from the applicable squad decides what data may or may not be stored in the Open Source/Public Cloud.
-  
+- The IT Manager or the Security Champion from the applicable squad decide what data may or may not be stored in the Cloud according to the Data Classification policy.
+
+ 
 - Users must not share log-in credentials and must not use shared accounts. They
   must follow the existing Password Policy in creating credentials
 
@@ -140,4 +141,4 @@ This policy will be enforced by the IT Manager and/or Executive Team. The appoin
 
 ## 6.0 Definitions 
 
-Refer to Glasswall Information Security Policy Guide.
+Refer to Glasswall Information Security Policy Guide. 
