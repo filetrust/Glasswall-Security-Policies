@@ -7,17 +7,17 @@
 | **Release Date** | TBD        |
 | **Version**      | v2.1       |
 | **Owners**       | [CISO](https://glasswall.atlassian.net/browse/ROLE-38), [CEO](https://glasswall.atlassian.net/browse/ROLE-37)       |
-| **Stakeholders** | [Head of IT](https://glasswall.atlassian.net/browse/ROLE-43), Head of HR|
+| **Stakeholders** | [Head of IT](https://glasswall.atlassian.net/browse/ROLE-43), Head of HR, [Head of InfoSec](https://glasswall.atlassian.net/browse/ROLE-47|
 
 Glasswall is hereinafter referred to as &quot;the company.&quot;
 
 ### 1.0 Overview
 
-A security incident can come in many forms: a malicious attacker gaining access to the network, a virus or other malware infecting computers, a natural disaster or even a stolen laptop containing confidential data.  A well-thought-out Incident Response Policy is critical to successful recovery from an incident.  This policy covers all incidents that may affect the security and integrity of the company&#39;s information assets, and outlines steps to take in the event of such an incident.
+An incident can come in many forms: a malicious attacker gaining access to the network, a virus or other malware infecting computers, infrastructure failure, a natural disaster or even a stolen laptop containing confidential data.  A well-thought-out Incident Response Policy is critical to successful recovery from an incident.  This policy covers all incidents that may affect the security and integrity of the company&#39;s information assets, and outlines steps to take in the event of such an incident.
 
 ### 2.0 Purpose
 
-This policy is intended to ensure that the company is prepared if a security incident were to occur.  It details what must occur if an incident is suspected, covering both electronic and physical security incidents. The company is a fully online company therefore the scope of this policy is limited to certain cases. 
+This policy is intended to ensure that the company is prepared if any incident was to occur.  It details what must occur if an incident is suspected, covering both electronic and physical security incidents. The company is a fully online company therefore the scope of this policy is limited to certain cases. 
 
 ### 3.0 Scope
 
@@ -27,10 +27,14 @@ The scope of this policy covers all information assets owned or provided by the 
 
 #### 4.1 Types of Incidents
 
-For the purposes of this policy a security incident is defined as one of the following:
+For the purposes of this policy an incident is defined as one of the following:
 
 - Electronic: This type of incident can range from an attacker or malicious user accessing the network for unauthorised purposes, or a malware infection.
 - Physical: A physical IT security incident involves the loss or theft of a laptop, mobile device, Smartphone, tablet, portable storage device, or other digital device that may contain sensitive or company confidential information. The physical incidents also cover cases of major natural disasters, global pandemics or major incidents related to the area that most of the company's employees reside on. 
+
+### 4.1.1 Incident Classification
+
+
 
 #### 4.2 Preparation
 
@@ -83,8 +87,8 @@ When an electronic incident is suspected, the company&#39;s goal is to recover a
 
 1. Identify immediate steps to prevent further harm to the Glasswall assets
 2. Determine incident severity (see table) and based on that consider triggering the business continuity and disaster recovery plan
-3. Create Jira incident and activate the incident Playbook
-4. Start Slack Channel with Incident Name and mobilise team
+3. Start Slack Channel with Incident Name and mobilise team - communicate the incident to the company via relevant designated channels
+4. Create Jira incident and activate the relevant incident Playbook
 5. Identify steps necessary to regain or ensure business continuity
 6. Depending on severity notify Executive Team and Management via a newly created #comms channel
 7. Contact the retained third party IT company as needed
@@ -99,7 +103,7 @@ When an electronic incident is suspected, the company&#39;s goal is to recover a
 
 #### 4.6 Physical Incidents
 
-Physical security incidents, regardless of cause, must be treated as if they were targeted at the company.
+Physical incidents, regardless of cause, must be treated as if they were targeted at the company.
 
 The company must assume that such a loss will occur at some point, and periodically survey a random sampling of laptops and mobile devices to determine the risk if one were to be lost or stolen.
 
@@ -141,11 +145,13 @@ If external notification is deemed appropriate, it should occur in an organized 
 
 #### 4.8 Managing Risk
 
-Managing risk of a security incident or data loss is the primary reason to create and maintain a comprehensive security policy.  Risks can come in many forms: electronic risks like data corruption, computer viruses, hackers, or malicious users; or physical risks such as loss/theft of a device, hardware failure, fire, or a natural disaster.  Protecting critical data and systems from these risks is of paramount importance to the company. Risks and vulnerabilities related to an incident should be logged in a central database (Jira)
+Managing risk of a security incident or data loss is the primary reason to create and maintain a comprehensive security policy.  Risks can come in many forms: electronic risks like data corruption, computer viruses, hackers, or malicious users; or physical risks such as loss/theft of a device, hardware failure, fire, or a natural disaster.  Protecting critical data and systems from these risks is of paramount importance to the company. Risks and vulnerabilities related to an incident should be logged in the company central database (Jira)
 
 ### 4.8.1 Risk Assessment
 
 As part of the risk management process, the company must conduct an accurate and thorough assessment of the potential risks (man-made and natural) and any vulnerabilities to the confidentiality, integrity, and availability of the company&#39;s critical or confidential information.  An assessment must be thorough, can be performed by company personnel or external consultants (or both), and must be well documented. It should be qualitative using the pre-approved Glasswall risk-matrix. 
+
+	![Glasswall Risk Matrix](RiskMatrix.jpg)
 
 ### 4.8.2 Risk Management Program
 
